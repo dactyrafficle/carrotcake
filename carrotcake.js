@@ -37,10 +37,33 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 		paint: {
 			'circle-radius': {
 				'base': 4,
-				'stops': [[4, 4.25], [12, 14]] // circles get bigger between z3 and z14
+				'stops': [[4, 3], [12, 14]] // circles get bigger between z3 and z14
 			},
 			'circle-color': '#FF6EC7',
 			'circle-opacity': 0.6
+		}
+	});
+  
+	map.addLayer({
+		id: 'textLabels',
+		type: 'symbol',
+		source: {
+			type: 'geojson',
+			data: x  // the name of the array where the data is coming from
+		},
+		layout: {
+      "text-allow-overlap": true,
+      "text-field": ["format",
+        ["get","port_code"], {"font-scale":1.0}
+
+      ],
+
+			"text-size": {
+        'stops': [[4, 12], [8, 30]] // the more you zoom, the bigger the text-size
+      }
+		},
+		paint: {
+			"text-color": "#ffccff"
 		}
 	});
 
