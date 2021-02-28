@@ -1,0 +1,347 @@
+port_id,port_code,port_name,state,lat,lon,type_proc,tonnage
+4951,,Adak Island  AK,AK,0,0,Export,30298
+4932,,Afognak Bay  AK,AK,0,0,Export,100886
+4932,,Afognak Bay  AK,AK,0,0,Import,54
+4946,,Akutan Island  AK,AK,0,0,Export,15286
+4834,,Craig  AK,AK,0,0,Import,55365
+4864,,Haines Borough  AK,AK,0,0,Import,5889
+4844,,Homer  AK,AK,0,0,Import,155809
+4885,,Hydaburg  AK,AK,0,0,Export,166645
+4909,,Iliuliuk Harbor  AK,AK,0,0,Export,249988
+4909,,Iliuliuk Harbor  AK,AK,0,0,Import,145745
+4810,,Juneau Harbor  AK,AK,0,0,Import,28674
+4800,,Ketchikan  AK,AK,0,0,Import,109994
+4978,,Kivalina  AK,AK,0,0,Export,1348750
+4978,,Kivalina  AK,AK,0,0,Import,71755
+4886,,Klawock  AK,AK,0,0,Export,55134
+4935,,Kodiak Island  AK,AK,0,0,Export,2685
+4935,,Kodiak Island  AK,AK,0,0,Import,0
+4934,,Kodiak  AK,AK,0,0,Export,10016
+4934,,Kodiak  AK,AK,0,0,Import,0
+4831,,Nikiski  AK,AK,0,0,Export,85539
+4831,,Nikiski  AK,AK,0,0,Import,113734
+4968,,Nome  AK,AK,0,0,Import,86689
+4820,,Port of Alaska  AK,AK,0,0,Export,15906
+4820,,Port of Alaska  AK,AK,0,0,Import,1104997
+4930,,Seward  AK,AK,0,0,Import,11070
+4808,,Sitka Ports and Harbor  AK,AK,0,0,Import,6614
+4812,,Skagway  AK,AK,0,0,Export,20439
+4971,,St. Lawrence Island  AK,AK,0,0,Import,25765
+4889,,Togiak Bay  AK,AK,0,0,Export,14701
+4889,,Togiak Bay  AK,AK,0,0,Import,19659
+4947,,Unalaska Island  AK,AK,0,0,Export,90898
+4947,,Unalaska Island  AK,AK,0,0,Import,194880
+4816,,Valdez  AK,AK,0,0,Export,919975
+4822,,Whittier  AK,AK,0,0,Export,0
+4822,,Whittier  AK,AK,0,0,Import,19717
+4802,,Wrangell  AK,AK,0,0,Import,0
+4931,,Yakutat  AK,AK,0,0,Export,25717
+2005,,Mobile Harbor  AL,AL,0,0,Export,16946472
+2005,,Mobile Harbor  AL,AL,0,0,Import,20249865
+3808,,Detroit District Small Ports - Lake Michigan,an,0,0,Export,29997
+3701,,Lake Michigan,an,0,0,Export,35486
+3701,,Lake Michigan,an,0,0,Import,940141
+4146,,El Segundo  CA,CA,0,0,Export,410922
+4146,,El Segundo  CA,CA,0,0,Import,10770697
+4375,,Humboldt Bay Harbor  CA,CA,0,0,Export,2999
+4345,,Oakland Harbor  CA,CA,0,0,Export,14374
+4198,,Oceanside Harbor  CA,CA,0,0,Export,273
+4150,,Oxnard Harbor District  CA,CA,0,0,Export,153323
+4150,,Oxnard Harbor District  CA,CA,0,0,Import,1769779
+4110,,Port of Long Beach  CA,CA,0,0,Export,21955100
+4110,,Port of Long Beach  CA,CA,0,0,Import,49227617
+4120,,Port of Los Angeles  CA,CA,0,0,Export,18551623
+4120,,Port of Los Angeles  CA,CA,0,0,Import,37699493
+4344,,Port of Oakland  CA,CA,0,0,Export,9652378
+4344,,Port of Oakland  CA,CA,0,0,Import,7942721
+4340,,Redwood City  CA,CA,0,0,Export,375018
+4340,,Redwood City  CA,CA,0,0,Import,1825356
+4350,,Richmond  CA,CA,0,0,Export,5594615
+4350,,Richmond  CA,CA,0,0,Import,15609048
+4240,,Sacramento-Yolo Port  CA,CA,0,0,Export,251142
+4240,,Sacramento-Yolo Port  CA,CA,0,0,Import,705794
+4100,,San Diego Unified Port  CA,CA,0,0,Export,20155
+4100,,San Diego Unified Port  CA,CA,0,0,Import,1321152
+4335,,San Francisco Port  CA,CA,0,0,Export,22259
+4335,,San Francisco Port  CA,CA,0,0,Import,823667
+4148,,Santa Monica  CA,CA,0,0,Import,31161
+4270,,Stockton  CA,CA,0,0,Export,2724282
+4270,,Stockton  CA,CA,0,0,Import,2719400
+2990,,LA Offshore Oil Port(Loop) Gulf of Mexico,co,0,0,Export,4383612
+2990,,LA Offshore Oil Port(Loop) Gulf of Mexico,co,0,0,Import,5040970
+311,,Bridgeport  CT,CT,0,0,Import,64540
+4660,,Coos Bay  OR - Navigation Project,ct,0,0,Export,1795634
+4660,,Coos Bay  OR - Navigation Project,ct,0,0,Import,249834
+1507,,New Haven  CT,CT,0,0,Export,264060
+1507,,New Haven  CT,CT,0,0,Import,3231168
+304,,New London  CT,CT,0,0,Import,330674
+2414,,Corpus Christi  TX (Excluding Harbor Island),d),0,0,Export,66757015
+2414,,Corpus Christi  TX (Excluding Harbor Island),d),0,0,Import,18563381
+9558,,Lower Delaware Bay DE,DE,0,0,Export,20834
+9558,,Lower Delaware Bay DE,DE,0,0,Import,5646710
+299,,New Castle  DE,DE,0,0,Export,173241
+299,,New Castle  DE,DE,0,0,Import,2626311
+554,,Wilmington  DE,DE,0,0,Export,1887832
+554,,Wilmington  DE,DE,0,0,Import,4040216
+1827,,Atlantic Ocean Opposite Indian River Inlet,et,0,0,Import,103953
+2160,,Canaveral Port District  FL,FL,0,0,Export,30934
+2160,,Canaveral Port District  FL,FL,0,0,Import,4229237
+2161,,Fort Pierce  FL,FL,0,0,Import,343
+2017,,Jacksonville  FL,FL,0,0,Export,1605290
+2017,,Jacksonville  FL,FL,0,0,Import,8406213
+2023,,Manatee County Port  FL,FL,0,0,Export,261964
+2023,,Manatee County Port  FL,FL,0,0,Import,3045822
+784,,Ocean Port Authority  FL,FL,0,0,Export,134363
+784,,Ocean Port Authority  FL,FL,0,0,Import,33835
+2016,,Panama City Port Authority  FL,FL,0,0,Export,1170787
+2016,,Panama City Port Authority  FL,FL,0,0,Import,575363
+2163,,Port Everglades Harbor  FL,FL,0,0,Export,3026152
+2163,,Port Everglades Harbor  FL,FL,0,0,Import,7264204
+1911,,Port Everglades  FL,FL,0,0,Export,214303
+1911,,Port Everglades  FL,FL,0,0,Import,71322
+2162,,Port of Palm Beach District  FL,FL,0,0,Export,1180795
+2162,,Port of Palm Beach District  FL,FL,0,0,Import,382593
+2007,,Port of Pensacola  FL,FL,0,0,Export,5455
+2007,,Port of Pensacola  FL,FL,0,0,Import,81065
+2164,,PortMiami  FL,FL,25.7745,-80.1709,Export,3349040
+2164,,PortMiami  FL,FL,25.7745,-80.1709,Import,5339546
+2021,,Tampa Port Authority  FL,FL,0,0,Export,4317680
+2021,,Tampa Port Authority  FL,FL,0,0,Import,7588514
+779,,East River and Oglethorpe Bay  GA,GA,0,0,Export,806726
+779,,East River and Oglethorpe Bay  GA,GA,0,0,Import,290157
+776,,Port of Savannah  GA,GA,0,0,Export,17576726
+776,,Port of Savannah  GA,GA,0,0,Import,23441299
+781,,Turtle River  GA,GA,0,0,Export,258676
+781,,Turtle River  GA,GA,0,0,Import,884576
+4400,,Hilo  Hawai'i  HI,HI,0,0,Import,28001
+4420,,Honolulu  O'ahu  HI,HI,0,0,Export,195936
+4420,,Honolulu  O'ahu  HI,HI,0,0,Import,1398877
+4410,,Kahului  Maui  HI,HI,0,0,Import,29127
+4458,,Kalaeloa Barbers Point  HI,HI,0,0,Export,476932
+4458,,Kalaeloa Barbers Point  HI,HI,0,0,Import,4766600
+4445,,Kewalo Basin  Honolulu  Oahu  HI,HI,0,0,Import,42
+4468,,Lahaina  Maui  HI,HI,0,0,Import,2284
+4431,,Nawiliwili  Kaua'i  HI,HI,0,0,Import,36521
+3749,,Illinois International Port  IL,IL,0,0,Export,24606
+3749,,Illinois International Port  IL,IL,0,0,Import,1634279
+3736,,Gary  IN,IN,0,0,Import,30658
+3738,,Indiana Harbor  IN,IN,0,0,Import,45853
+3739,,Ports Indiana - Burns Harbor  IN,IN,0,0,Import,1191157
+4908,,Dutch Harbor  Unalaska,ka,0,0,Export,364323
+4908,,Dutch Harbor  Unalaska,ka,0,0,Import,14691
+1910,,Greater Lafourche Port  LA,LA,0,0,Export,49342
+1910,,Greater Lafourche Port  LA,LA,0,0,Import,18003
+2248,,Lake Charles Harbor District  LA,LA,0,0,Export,15670606
+2248,,Lake Charles Harbor District  LA,LA,0,0,Import,10590481
+2251,,New Orleans  LA,LA,0,0,Export,26205938
+2251,,New Orleans  LA,LA,0,0,Import,17796360
+2255,,Plaquemines Port District  LA,LA,0,0,Export,18217222
+2255,,Plaquemines Port District  LA,LA,0,0,Import,5581809
+2252,,Port of Greater Baton Rouge  LA,LA,0,0,Export,23141352
+2252,,Port of Greater Baton Rouge  LA,LA,0,0,Import,6892872
+149,,Boston  MA,MA,0,0,Export,1748617
+149,,Boston  MA,MA,0,0,Import,9108255
+189,,Fall River Port Authority  MA,MA,0,0,Import,55904
+187,,New Bedford Port Authority  MA,MA,0,0,Import,5797
+700,,Baltimore  MD,MD,0,0,Export,24002472
+700,,Baltimore  MD,MD,0,0,Import,13628064
+115,,Belfast Harbor  ME,ME,0,0,Import,54313
+110,,Bucksport Harbor  ME,ME,0,0,Import,91942
+101,,Eastport Port Authority  ME,ME,0,0,Export,216188
+101,,Eastport Port Authority  ME,ME,0,0,Import,267
+22,,Fore River  ME,ME,0,0,Export,23992
+22,,Fore River  ME,ME,0,0,Import,3346733
+128,,Portland  ME,ME,0,0,Export,1166
+128,,Portland  ME,ME,0,0,Import,232770
+112,,Searsport  ME,ME,0,0,Export,30538
+112,,Searsport  ME,ME,0,0,Import,1269948
+3617,,Alpena  MI,MI,0,0,Export,20117
+3617,,Alpena  MI,MI,0,0,Import,160637
+3621,,Cheboygan  MI,MI,0,0,Export,32870
+3621,,Cheboygan  MI,MI,0,0,Import,61652
+3627,,Clark Township  MI,MI,0,0,Export,432510
+3627,,Clark Township  MI,MI,0,0,Import,15984
+3318,,Detroit Harbor  MI,MI,0,0,Import,703162
+3813,,Drummond Island  MI,MI,0,0,Export,418521
+3312,,Ecorse  MI,MI,0,0,Import,53568
+3795,,Escanaba  MI,MI,0,0,Import,111518
+3730,,Holland  MI,MI,0,0,Import,56789
+3722,,Ludington  MI,MI,0,0,Import,43070
+3720,,Manistee  MI,MI,0,0,Export,36376
+3720,,Manistee  MI,MI,0,0,Import,77133
+3506,,Marine City  MI,MI,0,0,Import,60027
+3844,,Marquette Harbor  MI,MI,0,0,Export,78346
+3844,,Marquette Harbor  MI,MI,0,0,Import,317639
+3512,,Marysville  MI,MI,0,0,Export,15454
+3512,,Marysville  MI,MI,0,0,Import,245793
+3202,,Monroe  MI,MI,0,0,Import,58754
+3803,,Mueller Township  MI,MI,0,0,Export,339478
+3803,,Mueller Township  MI,MI,0,0,Import,80632
+3725,,Muskegon  MI,MI,0,0,Import,531290
+3515,,Port Huron  MI,MI,0,0,Import,76197
+3619,,Presque Isle Township  MI,MI,0,0,Export,381201
+3619,,Presque Isle Township  MI,MI,0,0,Import,25943
+3845,,Presque Isle  MI,MI,0,0,Export,996981
+3845,,Presque Isle  MI,MI,0,0,Import,108033
+3635,,Rogers City  MI,MI,0,0,Export,104774
+3635,,Rogers City  MI,MI,0,0,Import,23187
+3315,,Rouge River  MI,MI,0,0,Export,22088
+3315,,Rouge River  MI,MI,0,0,Import,2262873
+3817,,Sault Ste Marie  MI,MI,0,0,Export,13228
+3817,,Sault Ste Marie  MI,MI,0,0,Import,57713
+3928,,Silver Bay  MN,MN,0,0,Export,92032
+3929,,Taconite  MN,MN,0,0,Export,15
+3926,,Two Harbors  MN,MN,0,0,Export,3504308
+2083,,Gulfport  MS,MS,0,0,Export,540529
+2083,,Gulfport  MS,MS,0,0,Import,1403653
+2004,,Jackson County Port  MS,MS,0,0,Export,8650137
+2004,,Jackson County Port  MS,MS,0,0,Import,8350900
+764,,Morehead City  NC,NC,0,0,Export,444714
+764,,Morehead City  NC,NC,0,0,Import,1077386
+1258,,Southport  NC,NC,0,0,Import,74769
+766,,Wilmington  NC,NC,0,0,Export,2238777
+766,,Wilmington  NC,NC,0,0,Import,3628898
+28,,Piscataqua River  ME and NH,NH,0,0,Export,33400
+28,,Piscataqua River  ME and NH,NH,0,0,Import,2153559
+9551,,Burlington-Florence-Roebling NJ,NJ,0,0,Import,260065
+551,,Camden-Gloucester  NJ,NJ,0,0,Export,761904
+551,,Camden-Gloucester  NJ,NJ,0,0,Import,2446644
+398,,New York  NY & NJ,NJ,40.684,-74.0062,Export,17727305
+398,,New York  NY & NJ,NJ,40.684,-74.0062,Import,73523481
+5252,,Paulsboro  NJ,NJ,0,0,Export,471984
+5252,,Paulsboro  NJ,NJ,0,0,Import,11262367
+505,,Albany Port District  NY,NY,0,0,Export,149254
+505,,Albany Port District  NY,NY,0,0,Import,596442
+3230,,Buffalo  NY,NY,0,0,Import,195538
+399,,Northville  Long Island  NY,NY,0,0,Export,443611
+399,,Northville  Long Island  NY,NY,0,0,Import,1979031
+3008,,Ogdensburg Port Authority  NY,NY,0,0,Import,52753
+3112,,Oswego  NY,NY,0,0,Export,21162
+3112,,Oswego  NY,NY,0,0,Import,312944
+3106,,Rochester  NY,NY,0,0,Import,107739
+2253,,South Louisiana  LA  Port of,of,0,0,Export,84048915
+2253,,South Louisiana  LA  Port of,of,0,0,Import,31571671
+3219,,Ashtabula Port Authority  OH,OH,0,0,Export,185246
+3219,,Ashtabula Port Authority  OH,OH,0,0,Import,453892
+3217,,Cleveland-Cuyahoga Port  OH,OH,0,0,Export,65036
+3217,,Cleveland-Cuyahoga Port  OH,OH,0,0,Import,1684979
+3220,,Conneaut  OH,OH,0,0,Import,169779
+3218,,Fairport Harbor  OH,OH,0,0,Export,99869
+3218,,Fairport Harbor  OH,OH,0,0,Import,59301
+3216,,Lorain Port Authority  OH,OH,0,0,Export,12125
+3216,,Lorain Port Authority  OH,OH,0,0,Import,179543
+3212,,Marblehead  OH,OH,0,0,Export,152669
+3212,,Marblehead  OH,OH,0,0,Import,138582
+3213,,Sandusky  OH,OH,0,0,Export,1098370
+3213,,Sandusky  OH,OH,0,0,Import,200854
+3204,,Toledo-Lucas County Port  OH,OH,0,0,Export,1826757
+3204,,Toledo-Lucas County Port  OH,OH,0,0,Import,1891279
+3601,,Lake Huron,on,0,0,Export,36376
+3601,,Lake Huron,on,0,0,Import,769426
+1828,,Atlantic Ocean Opposite Ocean City Harbor,or,0,0,Export,5718
+4610,,Clatsop County Port District  OR,OR,0,0,Export,129179
+4610,,Clatsop County Port District  OR,OR,0,0,Import,18
+4644,,Port of Portland  OR,OR,0,0,Export,10033364
+4644,,Port of Portland  OR,OR,0,0,Import,2194696
+297,,Chester  PA,PA,0,0,Export,341686
+297,,Chester  PA,PA,0,0,Import,1378443
+3221,,Erie  PA,PA,0,0,Export,11023
+3221,,Erie  PA,PA,0,0,Import,66433
+5251,,Marcus Hook  PA,PA,0,0,Export,4516392
+5251,,Marcus Hook  PA,PA,0,0,Import,3558785
+298,,Penn Manor  PA,PA,0,0,Export,363764
+298,,Penn Manor  PA,PA,0,0,Import,1865456
+552,,Philadelphia Regional Port  PA,PA,0,0,Export,887773
+552,,Philadelphia Regional Port  PA,PA,0,0,Import,8360505
+2168,,Guanica  PR,PR,0,0,Import,7977
+2152,,Guayanilla Harbor  PR,PR,0,0,Export,46356
+2152,,Guayanilla Harbor  PR,PR,0,0,Import,2588560
+1912,,Guaynabo  PR,PR,0,0,Export,56573
+1912,,Guaynabo  PR,PR,0,0,Import,1613762
+2150,,Jobos Harbor  PR,PR,0,0,Import,1760889
+2154,4907,Mayaguez  PR,PR,0,0,Import,10173
+2151,4908,Ponce Port Authority  PR,PR,18.0111,-66.6141,Export,117428
+2151,4908,Ponce Port Authority  PR,PR,18.0111,-66.6141,Import,1084827
+1913,4909,San Juan  PR,PR,18.463134,-66.111774,Export,213690
+1913,4909,San Juan  PR,PR,18.463134,-66.111774,Import,3634530
+2177,,Tallaboa Bay  PR,PR,0,0,Import,134838
+2220,,Yabucoa  PR,PR,0,0,Export,380053
+2220,,Yabucoa  PR,PR,0,0,Import,1954797
+196,,Narragansett Bay  RI,RI,0,0,Export,9010
+196,,Narragansett Bay  RI,RI,0,0,Import,540418
+191,,Port of Providence  RI,RI,0,0,Export,594462
+191,,Port of Providence  RI,RI,0,0,Import,4168209
+773,,Port of Charleston  SC,SC,0,0,Export,8526903
+773,,Port of Charleston  SC,SC,0,0,Import,14076087
+772,,Port of Georgetown  SC,SC,0,0,Export,49
+4499,,Hawaiian Islands Area  Other Ports,ts,0,0,Import,6
+4612,,Portland  Astoria  St. Helens  Longview  Vancouver and Kalama Area  Other Ports,ts,0,0,Export,436679
+4612,,Portland  Astoria  St. Helens  Longview  Vancouver and Kalama Area  Other Ports,ts,0,0,Import,346721
+4754,,Puget Sound Area  WA  Other Ports,ts,0,0,Export,3344714
+4754,,Puget Sound Area  WA  Other Ports,ts,0,0,Import,3914083
+2395,,Beaumont  TX,TX,0,0,Export,47676575
+2395,,Beaumont  TX,TX,0,0,Import,16500297
+2420,,Brownsville  TX,TX,0,0,Export,671040
+2420,,Brownsville  TX,TX,0,0,Import,3268952
+2427,,Calhoun Port Authority  TX,TX,0,0,Export,1719096
+2427,,Calhoun Port Authority  TX,TX,0,0,Import,484570
+2417,,Galveston  TX,TX,0,0,Export,3722413
+2417,,Galveston  TX,TX,0,0,Import,2347794
+2418,,Harbor Island  TX,TX,0,0,Import,118869
+2031,,Houston Port Authority  TX,TX,0,0,Export,144189938
+2031,,Houston Port Authority  TX,TX,0,0,Import,65561413
+2394,,Orange County Port District  TX,TX,0,0,Import,69
+2416,,Port Arthur  TX,TX,0,0,Export,15745387
+2416,,Port Arthur  TX,TX,0,0,Import,6928764
+2408,,Port Freeport  TX,TX,0,0,Export,18881424
+2408,,Port Freeport  TX,TX,0,0,Import,7090199
+2422,,Port Isabel-San Benito  TX,TX,0,0,Import,90
+2428,,Texas City  TX,TX,0,0,Export,18757458
+2428,,Texas City  TX,TX,0,0,Import,5879588
+743,,Elizabeth River (Eastern Branch) VA,VA,0,0,Export,86950
+743,,Elizabeth River (Eastern Branch) VA,VA,0,0,Import,12318
+742,,Elizabeth River (Southern Branch) VA,VA,0,0,Export,3974384
+742,,Elizabeth River (Southern Branch) VA,VA,0,0,Import,1326742
+744,,Elizabeth River  VA,VA,0,0,Export,23310278
+744,,Elizabeth River  VA,VA,0,0,Import,11177978
+738,,Hopewell  VA,VA,0,0,Export,268185
+738,,Hopewell  VA,VA,0,0,Import,34125
+736,,Newport News  VA,VA,0,0,Export,16919246
+736,,Newport News  VA,VA,0,0,Import,362640
+2156,,Frederiksted St. Croix Island  VI,VI,0,0,Export,9
+2175,,Port Harvey St. Croix Island  VI,VI,0,0,Export,39164
+2175,,Port Harvey St. Croix Island  VI,VI,0,0,Import,17770
+2176,,Port Hess St. Croix Island  VI,VI,0,0,Export,1937462
+2176,,Port Hess St. Croix Island  VI,VI,0,0,Import,1746586
+2157,,Virgin Islands - St. Croix  VI,VI,0,0,Export,50140
+2157,,Virgin Islands - St. Croix  VI,VI,0,0,Import,9816
+2142,,Virgin Islands - St. Johns  VI,VI,0,0,Import,2041
+2143,,Virgin Islands - St. Thomas  VI,VI,0,0,Export,897
+2143,,Virgin Islands - St. Thomas  VI,VI,0,0,Import,17955
+4730,,Anacortes  WA,WA,0,0,Export,1440998
+4730,,Anacortes  WA,WA,0,0,Import,434858
+4732,,Bellingham  WA,WA,0,0,Export,9923
+4732,,Bellingham  WA,WA,0,0,Import,5515
+4707,,Clallam County Port District  WA,WA,0,0,Export,247061
+4707,,Clallam County Port District  WA,WA,0,0,Import,11734
+4725,,Everett  WA,WA,0,0,Export,8682
+4725,,Everett  WA,WA,0,0,Import,303303
+4702,,Grays Harbor Port District  WA,WA,0,0,Export,2674976
+4702,,Grays Harbor Port District  WA,WA,0,0,Import,107526
+4626,,Port of Kalama  WA,WA,0,0,Export,15033000
+4626,,Port of Kalama  WA,WA,0,0,Import,333617
+4622,,Port of Longview  WA,WA,0,0,Export,8243647
+4622,,Port of Longview  WA,WA,0,0,Import,295044
+4718,,Port of Olympia  WA,WA,0,0,Export,547128
+4636,,Port of Vancouver USA  WA,WA,0,0,Export,7374595
+4636,,Port of Vancouver USA  WA,WA,0,0,Import,1417636
+4722,,Seattle  WA,WA,0,0,Export,9147220
+4722,,Seattle  WA,WA,0,0,Import,8527280
+4720,,Tacoma  WA,WA,0,0,Export,10569461
+4720,,Tacoma  WA,WA,0,0,Import,6612732
+3924,,Duluth-Superior  MN and WI,WI,0,0,Export,6395243
+3924,,Duluth-Superior  MN and WI,WI,0,0,Import,958446
+3760,,Manitowoc Harbor Commission  WI,WI,0,0,Import,24457
+3793,,Marinette-Menominee  MI and WI,WI,0,0,Import,62601
+3756,,Milwaukee  WI,WI,0,0,Export,89414
+3756,,Milwaukee  WI,WI,0,0,Import,1475732

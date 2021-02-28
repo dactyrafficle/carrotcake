@@ -1,0 +1,56 @@
+/* the main bits */
+.map {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+/* the hamburger icon */
+.hamburger-container {
+	position: absolute;
+	display: inline-block;
+	z-index: 1;
+}
+.hamburger-container:hover {
+	cursor: pointer;
+}
+.hamburger-contents {
+	z-index: 1;
+  width: 35px;
+  height: 5px;
+  margin: 6px 0;
+	border-radius: 5px;
+	background-color: #fcf;
+}
+
+/* the modal and its contents */
+.modal {
+	position: absolute;
+	z-index: 0;
+  background-color: rgba(68, 68, 68, 0.7);
+  border: 1px solid #222;
+  position: absolute;
+	top: 50px;
+  padding: 10px;
+  overflow: hidden;
+	display: none;
+}
+.outer {
+  display: table-cell;
+  vertical-align: middle;
+  height: 350px;
+  width: 350px;
+}
+.inner {
+  display: inline-block;
+}
+.pink {
+  color: #fcf; /* #4d5531; */
+  font-weight: bold;
+}
+input[type='file'], button {
+  font-family: Calibri, Helvetica, sans-serif;
+}
+
