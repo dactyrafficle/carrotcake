@@ -54,7 +54,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 		layout: {
       "text-allow-overlap": true,
       "text-field": ["format",
-        ["get","port_code"], {"font-scale":1.0}
+        ["get","display_code"], {"font-scale":1.0}
 
       ],
 
@@ -75,88 +75,6 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 });
 
 
-
-
-
-
-
-// this function will add a layer [an array of geojson data] to the map
-function add_my_layer_to_the_map(my_geojson_obj) {
-	map.addLayer({
-		id: 'locations',
-		type: 'circle',
-		source: {
-			type: 'geojson',
-			data: my_geojson_obj  // the name of the array where the data is coming from
-		},
-		layout: {
-			visibility: 'visible'
-		},
-		paint: {
-			'circle-radius': {  // make a function of size of a certain variable
-				'base': 4,
-				'stops': [[4, 4.25], [12, 14]] // circles get bigger between z3 and z14
-			},
-			'circle-color': '#FF6EC7',
-			'circle-opacity': 0.6
-		}
-	});
-	
-	
-	map.addLayer({
-		id: 'textLabels',
-		type: 'symbol',
-		source: {
-			type: 'geojson',
-			data: my_geojson_obj  // the name of the array where the data is coming from
-		},
-		layout: {
-			//"text-field": ["get", "name1"],
-      "text-field": ["format",
-        ["get","name1"], {"font-scale":1.0}
-        //["get","name2"], {"font-scale":0.6}
-      ],
-			//"text-variable-anchor": ["top", "bottom", "left", "right"],
-			//"text-radial-offset": 0.5,
-			//"text-justify": "auto",
-			//"icon-image": ["concat", ["get", "icon"], "-15"]
-			//"text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
-			"text-size": 20
-		},
-		paint: {
-			"text-color": "#ffccff"
-		}
-	});
-
-	// to add text
-	/*
-	map.addLayer({
-		id: 'labels',
-		type: 'circle',
-		source: {
-			type: 'geojson',
-			data: locations  // the name of the array where the data is coming from
-		},
-		layout: {
-			visibility: 'visible'
-		}
-	});
-	*/
-	//map.setLayoutProperty('locations', 'text-field', 'locations')
-	
-	/*
-	['format',
-	['get', 'ar'], { 'font-scale': 1.2 },
-	'\n', {},
-	['get', 'ar'], {
-	'font-scale': 0.8,
-	'text-font': ['literal', [ 'DIN Offc Pro Italic', 'Arial Unicode MS Regular' ]]
-	}
-	]);	
-	*/
-
-	
-};
 
 
 function csv_string_to_array_of_objects(csv_string) {
@@ -242,8 +160,11 @@ function arr_of_objects_into_geojson_object(arr) {
       },
       'properties': {
         'rowId': i,
+        'country': arr[i].country_name,
         'port_id': arr[i].port_id,
         'port_code': arr[i].port_code,
+        'un_locode': arr[i].un_locode,
+        'display_code': arr[i].display_code,
         'port_name': arr[i].port_name,
         'state': arr[i].state,
         'type_proc': arr[i].type_proc,

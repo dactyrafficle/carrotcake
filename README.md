@@ -1,8 +1,10 @@
 # carrotcake
 
-im trying to find a good way to look at container ports in the US and the kind of volume they see and where things go etc
+im trying to find a good way to look at container ports in Canada and the US and the kind of volume they see and where things go etc
 
-https://dactyrafficle.github.io/carrotcake/
+https://dactyrafficle.github.io/ladybug/
+
+apparently, there are 360 commercial ports
 
 Make sure that latitude is the first column, and latitude is the second column.
 
