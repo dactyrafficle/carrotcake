@@ -2,9 +2,18 @@
 
 im trying to find a good way to look at container ports in Canada and the US and the kind of volume they see and where things go etc
 
-https://dactyrafficle.github.io/ladybug/
+https://dactyrafficle.github.io/carrotcake/
 
-apparently, there are 360 commercial ports
+
+So, in Canada, there are 4 big ports:
+* Vancouver, BC
+* Montreal, QC
+* Halifax, NS
+* Prince Rupert, BC
+
+There are lots of seaports in Canada, but 17 of them are owned and operated by the Government of Canada as Crown Corporations. That includes the 4 listed above.
+
+apparently, there are 360 commercial ports in the US
 
 Make sure that latitude is the first column, and latitude is the second column.
 
