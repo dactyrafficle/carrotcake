@@ -34,10 +34,24 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 		},
 		paint: {
 			'circle-radius': {
+        property: 'teu',
+        'stops': [
+         [0, 3],
+         [68878, 6],
+         [3398861, 12]  // this is the max of vancouver, biggest in Canada - also, how can I cluster them?
+        ]
+        /*
 				'base': 4,
 				'stops': [[4, 3], [12, 14]] // circles get bigger between z3 and z14
-			},
-			'circle-color': '#FF6EC7',
+			  */
+      },
+			'circle-color': {
+        property: 'teu',
+        'stops': [
+         [0, '#ffccff'],
+         [100000,'#ffccff']
+        ]
+      },
 			'circle-opacity': 0.6
 		}
 	});
@@ -61,7 +75,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
       }
 		},
 		paint: {
-			"text-color": "#ffccff"
+			"text-color": "#ffe6ff"
 		}
 	});
 
@@ -165,13 +179,12 @@ function arr_of_objects_into_geojson_object(arr) {
         'display_code': arr[i].display_code,
         'port_name': arr[i].port_name,
         'state': arr[i].state,
-        //'type_proc': arr[i].type_proc,
         'tonnage_im': arr[i].tonnage_im,
         'tonnage_em': arr[i].tonnage_ex,
         'tonnage': arr[i].tonnage,
         'teu_im': arr[i].teu_im,
         'teu_ex': arr[i].teu_ex,
-        'teu': arr[i].teu
+        'teu': parseInt(arr[i].teu)
       }
     }
     // inside the for loop, push the object a into the obj object
