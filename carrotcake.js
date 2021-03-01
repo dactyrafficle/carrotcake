@@ -2,8 +2,6 @@
 
 let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d => {
 
- //console.log(d);
-
  let arr = csv_string_to_array_of_objects(d); // arr of objs
  let my_geojson_obj = arr_of_objects_into_geojson_object(arr);
  return my_geojson_obj;
@@ -167,8 +165,13 @@ function arr_of_objects_into_geojson_object(arr) {
         'display_code': arr[i].display_code,
         'port_name': arr[i].port_name,
         'state': arr[i].state,
-        'type_proc': arr[i].type_proc,
-        'tonnage': arr[i].tonnage
+        //'type_proc': arr[i].type_proc,
+        'tonnage_im': arr[i].tonnage_im,
+        'tonnage_em': arr[i].tonnage_ex,
+        'tonnage': arr[i].tonnage,
+        'teu_im': arr[i].teu_im,
+        'teu_ex': arr[i].teu_ex,
+        'teu': arr[i].teu
       }
     }
     // inside the for loop, push the object a into the obj object
