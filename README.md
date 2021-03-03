@@ -4,14 +4,19 @@ im trying to find a good way to look at container ports in Canada and the US and
 
 https://dactyrafficle.github.io/carrotcake/
 
+## Canada
 
-So, in Canada, there are 4 big ports:
+There are 4 big ports:
 * Vancouver, BC
 * Montreal, QC
 * Halifax, NS
 * Prince Rupert, BC
 
-There are lots of seaports in Canada, but 17 of them are owned and operated by the Government of Canada as Crown Corporations. That includes the 4 listed above.
+There are lots of seaports in Canada, but there are 17 port authorities that are owned by the Government of Canada and run as Crown Corporations. The 4 listed above fall under this category.
+
+The list is here:
+
+https://tc.canada.ca/en/marine-transportation/ports-harbours-anchorages/list-canada-port-authorities
 
 apparently, there are 360 commercial ports in the US
 

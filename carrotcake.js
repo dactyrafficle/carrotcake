@@ -36,22 +36,23 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 			'circle-radius': {
         property: 'teu',
         'stops': [
-         [0, 3],
-         [68878, 6],
-         [3398861, 12]  // this is the max of vancouver, biggest in Canada - also, how can I cluster them?
+         [0, 6],
+         [68878, 9],
+         [3398861, 15]  // this is the max of vancouver, biggest in Canada - also, how can I cluster them?
         ]
         /*
 				'base': 4,
 				'stops': [[4, 3], [12, 14]] // circles get bigger between z3 and z14
 			  */
       },
-			'circle-color': {
-        property: 'teu',
-        'stops': [
-         [0, '#ffccff'],
-         [100000,'#ffccff']
-        ]
-      },
+      'circle-color': [
+       'match', ['string', ['get', 'country']],
+       'USA',
+       '#fbb03b',
+       'CANADA',
+       '#0099ff',
+       '#ccc' // other
+      ],
 			'circle-opacity': 0.6
 		}
 	});
@@ -69,16 +70,27 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
         ["get","display_code"], {"font-scale":1.0}
 
       ],
-
+     "text-size": [
+        "interpolate", ["linear"], ["zoom"],
+        // zoom is 5 (or less) -> circle radius will be 1px
+        4, 3,
+        // zoom is 10 (or greater) -> circle radius will be 5px
+        10, 20
+     ]
+     
+     /*
 			"text-size": {
-        'stops': [[4, 12], [8, 30]] // the more you zoom, the bigger the text-size
+        'stops': [[4, 0], [4.1,15], [8, 30]] // the more you zoom, the bigger the text-size
       }
-		},
+     */
+    },
 		paint: {
 			"text-color": "#ffe6ff"
 		}
+   
+    
 	});
-
+  
 
  })
 
