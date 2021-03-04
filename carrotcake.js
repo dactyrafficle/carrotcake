@@ -14,37 +14,69 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
  mapboxgl.accessToken = 'pk.eyJ1IjoicnRob21hc2lhbiIsImEiOiJjamY5NWt1MWIwZXBxMnFxb3N6NHphdHN3In0.p80Ttn1Zyoaqk-pXjMV8XA';
  let map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/dark-v9', // other choices: light-v9; dark-v9; streets-v10
+  style: 'mapbox://styles/mapbox/dark-v10', // other choices: light-v9; dark-v9; streets-v10
   center: [-95.7129, 37.0902], // Hamilton, ON [-79.8711, 43.2557], US [-95.7129, 37.0902]
   zoom: 3
  });
  
 
  map.on('load', function() {
+   
+   
+   map.addSource('seaports', {
+     'type': 'geojson',
+     'data': x,
+     'cluster': true,
+     'clusterRadius': 50,
+     'clusterProperties': {
+       'clustered-teus': ['+',['get','teus']]
+     }
+   });
+  
+  map.addLayer({
+  id: 'unclustered-point',
+  type: 'circle',
+  source: 'seaports',
+  filter: ['!', ['has', 'point_count']],
+  paint: {
+  'circle-color': '#11b4da',
+  'circle-radius': 6,
+  }
+  });
 
  	map.addLayer({
-		id: 'locations',
+		id: 'clusters',
 		type: 'circle',
-		source: {
-			type: 'geojson',
-			data: x  // the name of the array where the data is coming from
-		},
+    source: 'seaports',
+    filter: ['has', 'point_count'],
+
 		layout: {
 			visibility: 'visible'
 		},
-		paint: {
+    
+    paint: {
+      'circle-radius': [
+       'step',
+       ['get', 'point_count'],
+       10, // 10px min
+       2,  // 2 pts - need it by total teus per cluster
+       18,
+       3,
+       25
+      ],
+
+    /*
 			'circle-radius': {
         property: 'teu',
         'stops': [
          [0, 6],
          [68878, 9],
-         [3398861, 15]  // this is the max of vancouver, biggest in Canada - also, how can I cluster them?
+         [3398861, 15]  // this is the max of vancouver. how to cluster them?
         ]
-        /*
-				'base': 4,
-				'stops': [[4, 3], [12, 14]] // circles get bigger between z3 and z14
-			  */
       },
+      */
+      'circle-color': '#0099ff',
+      /*
       'circle-color': [
        'match', ['string', ['get', 'country']],
        'USA',
@@ -53,6 +85,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
        '#0099ff',
        '#ccc' // other
       ],
+      */
 			'circle-opacity': 0.6
 		}
 	});
@@ -194,9 +227,9 @@ function arr_of_objects_into_geojson_object(arr) {
         'tonnage_im': arr[i].tonnage_im,
         'tonnage_em': arr[i].tonnage_ex,
         'tonnage': arr[i].tonnage,
-        'teu_im': arr[i].teu_im,
-        'teu_ex': arr[i].teu_ex,
-        'teu': parseInt(arr[i].teu)
+        'teus_im': parseInt(arr[i].teus_im),
+        'teus_ex': parseInt(arr[i].teus_ex),
+        'teus': parseInt(arr[i].teus)
       }
     }
     // inside the for loop, push the object a into the obj object
