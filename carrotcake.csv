@@ -1,4 +1,4 @@
-country_name,port_id,port_code,un_locode,display_code,draft_depth,name1,port_authority,owned_by,port_name,state,lat,lon,tonnage_im,tonnage_ex,tonnage,year,teu_im,teu_ex,teu
+country_name,port_id,port_code,un_locode,display_code,draft_depth,name1,port_authority,owned_by,port_name,state,lat,lon,tonnage_im,tonnage_ex,tonnage,year,teus_im,teus_ex,teus
 USA,22,,,,0,,,,Fore River  ME,ME,0,0,3346733,23992,3370725,,1,1,1
 USA,28,,,,0,,,,Piscataqua River  ME and NH,NH,0,0,2153559,33400,2186959,,1,1,1
 USA,101,,,,0,,,,Eastport Port Authority  ME,ME,0,0,267,216188,216455,,1,1,1

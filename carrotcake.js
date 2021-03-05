@@ -3,6 +3,7 @@
 let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d => {
 
  let arr = csv_string_to_array_of_objects(d); // arr of objs
+ console.log(arr);
  let my_geojson_obj = arr_of_objects_into_geojson_object(arr);
  return my_geojson_obj;
 
@@ -27,7 +28,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
      'type': 'geojson',
      'data': x,
      'cluster': true,
-     'clusterRadius': 50,
+     'clusterRadius': 23,
      'clusterProperties': {
        'clustered-teus': ['+',['get','teus']]
      }
@@ -39,8 +40,16 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   source: 'seaports',
   filter: ['!', ['has', 'point_count']],
   paint: {
-  'circle-color': '#11b4da',
-  'circle-radius': 6,
+   'circle-color': '#0099ff',
+   'circle-radius': {
+    property: 'teus',
+    'stops': [
+         [0, 12],
+         [68878, 17],
+         [3398861, 23]  // this is the max of vancouver. how to cluster them?
+        ]
+    },
+    'circle-opacity': 0.6
   }
   });
 
@@ -57,12 +66,14 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
     paint: {
       'circle-radius': [
        'step',
-       ['get', 'point_count'],
-       10, // 10px min
-       2,  // 2 pts - need it by total teus per cluster
-       18,
-       3,
-       25
+       ['get', 'clustered-teus'],
+       12, // 10px min
+       68878,  // 2 pts - need it by total teus per cluster
+       17,
+       3398861,
+       23,
+       7000000,
+       40
       ],
 
     /*
