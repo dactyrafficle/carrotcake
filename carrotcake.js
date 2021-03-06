@@ -30,7 +30,9 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
      'cluster': true,
      'clusterRadius': 23,
      'clusterProperties': {
-       'clustered-teus': ['+',['get','teus']]
+       'clustered-teus': ['+',['get','teus']],
+       //'clustered-teus': ['+',['ln',['get','teus']]] // works, but misleading
+       
      }
    });
   
@@ -41,7 +43,13 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   filter: ['!', ['has', 'point_count']],
   paint: {
    'circle-color': '#0099ff',
-   'circle-radius': {
+   //'circle-radius': ['min', ['/',['/',['sqrt',['get','teus']],['pi']],10], 10],
+   'circle-radius': ['ln', ['get','teus']],
+   
+     
+     
+     /*
+     {   
     property: 'teus',
     'stops': [
          [0, 12],
@@ -49,6 +57,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
          [3398861, 23]  // this is the max of vancouver. how to cluster them?
         ]
     },
+    */
     'circle-opacity': 0.6
   }
   });
@@ -57,14 +66,16 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
 		id: 'clusters',
 		type: 'circle',
     source: 'seaports',
-    filter: ['has', 'point_count'],
+    filter: ['has', 'point_count'],  // the thing we cluster by
 
 		layout: {
 			visibility: 'visible'
 		},
     
     paint: {
-      'circle-radius': [
+      'circle-radius': ['ln',['get','clustered-teus']],
+      
+      /* [
        'step',
        ['get', 'clustered-teus'],
        12, // 10px min
@@ -75,6 +86,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
        7000000,
        40
       ],
+     */
 
     /*
 			'circle-radius': {
