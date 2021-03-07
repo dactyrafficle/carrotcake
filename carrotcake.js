@@ -1,9 +1,7 @@
 
-
 let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d => {
 
  let arr = csv_string_to_array_of_objects(d); // arr of objs
- console.log(arr);
  let my_geojson_obj = arr_of_objects_into_geojson_object(arr);
  return my_geojson_obj;
 
@@ -11,7 +9,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   
   console.log(x);
   
- // display the map
+ // DISPLAY THE MAP
  mapboxgl.accessToken = 'pk.eyJ1IjoicnRob21hc2lhbiIsImEiOiJjamY5NWt1MWIwZXBxMnFxb3N6NHphdHN3In0.p80Ttn1Zyoaqk-pXjMV8XA';
  let map = new mapboxgl.Map({
   container: 'map',
@@ -20,22 +18,20 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   zoom: 3
  });
  
-
  map.on('load', function() {
    
-   
-   map.addSource('seaports', {
-     'type': 'geojson',
-     'data': x,
-     'cluster': true,
-     'clusterRadius': 23,
-     'clusterProperties': {
-       'clustered-teus': ['+',['get','teus']],
-       //'clustered-teus': ['+',['ln',['get','teus']]] // works, but misleading
-       
-     }
-   });
+  // CLUSTERING
+  map.addSource('seaports', {
+   'type': 'geojson',
+   'data': x,
+   'cluster': true,
+   'clusterRadius': 23,
+   'clusterProperties': {
+    'clustered-teus': ['+',['get','teus']],
+   }
+  });
   
+  // IF THE PT IS NOT CLUSTERED
   map.addLayer({
   id: 'unclustered-point',
   type: 'circle',
@@ -43,77 +39,28 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   filter: ['!', ['has', 'point_count']],
   paint: {
    'circle-color': '#0099ff',
-   //'circle-radius': ['min', ['/',['/',['sqrt',['get','teus']],['pi']],10], 10],
-   'circle-radius': ['ln', ['get','teus']],
-   
-     
-     
-     /*
-     {   
-    property: 'teus',
-    'stops': [
-         [0, 12],
-         [68878, 17],
-         [3398861, 23]  // this is the max of vancouver. how to cluster them?
-        ]
-    },
-    */
-    'circle-opacity': 0.6
+   'circle-radius': ['+',['ln', ['get','teus']],5],
+   'circle-opacity': 0.6
   }
   });
-
- 	map.addLayer({
-		id: 'clusters',
-		type: 'circle',
-    source: 'seaports',
-    filter: ['has', 'point_count'],  // the thing we cluster by
-
-		layout: {
-			visibility: 'visible'
-		},
-    
-    paint: {
-      'circle-radius': ['ln',['get','clustered-teus']],
-      
-      /* [
-       'step',
-       ['get', 'clustered-teus'],
-       12, // 10px min
-       68878,  // 2 pts - need it by total teus per cluster
-       17,
-       3398861,
-       23,
-       7000000,
-       40
-      ],
-     */
-
-    /*
-			'circle-radius': {
-        property: 'teu',
-        'stops': [
-         [0, 6],
-         [68878, 9],
-         [3398861, 15]  // this is the max of vancouver. how to cluster them?
-        ]
-      },
-      */
-      'circle-color': '#0099ff',
-      /*
-      'circle-color': [
-       'match', ['string', ['get', 'country']],
-       'USA',
-       '#fbb03b',
-       'CANADA',
-       '#0099ff',
-       '#ccc' // other
-      ],
-      */
-			'circle-opacity': 0.6
-		}
-	});
   
-	map.addLayer({
+  // SHOW THE CLUSTER
+ 	map.addLayer({
+   id: 'clusters',
+   type: 'circle',
+   source: 'seaports',
+   filter: ['has', 'point_count'],  // the thing we cluster by
+   layout: {
+    visibility: 'visible'
+   },
+   paint: {
+    'circle-radius': ['+',['ln',['get','clustered-teus']],5],
+    'circle-color': '#0099ff',
+    'circle-opacity': 0.6
+   }
+  });
+
+  map.addLayer({
 		id: 'textLabels',
 		type: 'symbol',
 		source: {

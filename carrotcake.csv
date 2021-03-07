@@ -1,228 +1,228 @@
-country_name,port_id,port_code,un_locode,display_code,draft_depth,name1,port_authority,owned_by,port_name,state,lat,lon,tonnage_im,tonnage_ex,tonnage,year,teus_im,teus_ex,teus
-USA,22,,,,0,,,,Fore River  ME,ME,0,0,3346733,23992,3370725,,1,1,1
-USA,28,,,,0,,,,Piscataqua River  ME and NH,NH,0,0,2153559,33400,2186959,,1,1,1
-USA,101,,,,0,,,,Eastport Port Authority  ME,ME,0,0,267,216188,216455,,1,1,1
-USA,110,,,,0,,,,Bucksport Harbor  ME,ME,0,0,91942,0,91942,,1,1,1
-USA,112,,,,0,,,,Searsport  ME,ME,0,0,1269948,30538,1300486,,1,1,1
-USA,115,,,,0,,,,Belfast Harbor  ME,ME,0,0,54313,0,54313,,1,1,1
-USA,128,,,,0,,,,Portland  ME,ME,0,0,232770,1166,233936,,1,1,1
-USA,149,,,,0,,,,Boston  MA,MA,0,0,9108255,1748617,10856872,,1,1,1
-USA,187,,,,0,,,,New Bedford Port Authority  MA,MA,0,0,5797,0,5797,,1,1,1
-USA,189,,,,0,,,,Fall River Port Authority  MA,MA,0,0,55904,0,55904,,1,1,1
-USA,191,,,,0,,,,Port of Providence  RI,RI,0,0,4168209,594462,4762671,,1,1,1
-USA,196,,,,0,,,,Narragansett Bay  RI,RI,0,0,540418,9010,549428,,1,1,1
-USA,297,,,,0,,,,Chester  PA,PA,0,0,1378443,341686,1720129,,1,1,1
-USA,298,,,,0,,,,Penn Manor  PA,PA,0,0,1865456,363764,2229220,,1,1,1
-USA,299,,,,0,,,,New Castle  DE,DE,0,0,2626311,173241,2799552,,1,1,1
-USA,304,,,,0,,,,New London  CT,CT,0,0,330674,0,330674,,1,1,1
-USA,311,,,,0,,,,Bridgeport  CT,CT,0,0,64540,0,64540,,1,1,1
-USA,398,4601,,4601,50,Port of New York and New Jersey,,,Port of New York and New Jersey,NJ,40.684,-74.0062,73523481,17727305,91250786,,1,1,1
-USA,399,,,,0,,,,Northville  Long Island  NY,NY,0,0,1979031,443611,2422642,,1,1,1
-USA,505,,,,0,,,,Albany Port District  NY,NY,0,0,596442,149254,745696,,1,1,1
-USA,551,,,,0,,,,Camden-Gloucester  NJ,NJ,0,0,2446644,761904,3208548,,1,1,1
-USA,552,,,,0,,,,Philadelphia Regional Port  PA,PA,0,0,8360505,887773,9248278,,1,1,1
-USA,554,,,,0,,,,Wilmington  DE,DE,0,0,4040216,1887832,5928048,,1,1,1
-USA,700,,,,0,,,,Baltimore  MD,MD,0,0,13628064,24002472,37630536,,1,1,1
-USA,736,,,,0,,,,Newport News  VA,VA,0,0,362640,16919246,17281886,,1,1,1
-USA,738,,,,0,,,,Hopewell  VA,VA,0,0,34125,268185,302310,,1,1,1
-USA,742,,,,0,,,,Elizabeth River (Southern Branch) VA,VA,0,0,1326742,3974384,5301126,,1,1,1
-USA,743,,,,0,,,,Elizabeth River (Eastern Branch) VA,VA,0,0,12318,86950,99268,,1,1,1
-USA,744,,,,0,,,,Elizabeth River  VA,VA,0,0,11177978,23310278,34488256,,1,1,1
-USA,764,,,,0,,,,Morehead City  NC,NC,0,0,1077386,444714,1522100,,1,1,1
-USA,766,,,,0,,,,Wilmington  NC,NC,0,0,3628898,2238777,5867675,,1,1,1
-USA,772,,,,0,,,,Port of Georgetown  SC,SC,0,0,0,49,49,,1,1,1
-USA,773,,,,0,,,,Port of Charleston  SC,SC,0,0,14076087,8526903,22602990,,1,1,1
-USA,776,,,,0,,,,Port of Savannah  GA,GA,0,0,23441299,17576726,41018025,,1,1,1
-USA,779,,,,0,,,,East River and Oglethorpe Bay  GA,GA,0,0,290157,806726,1096883,,1,1,1
-USA,781,,,,0,,,,Turtle River  GA,GA,0,0,884576,258676,1143252,,1,1,1
-USA,784,,,,0,,,,Ocean Port Authority  FL,FL,0,0,33835,134363,168198,,1,1,1
-USA,1258,,,,0,,,,Southport  NC,NC,0,0,74769,0,74769,,1,1,1
-USA,1507,,,,0,,,,New Haven  CT,CT,0,0,3231168,264060,3495228,,1,1,1
-USA,1827,,,,0,,,,Atlantic Ocean Opposite Indian River Inlet,et,0,0,103953,0,103953,,1,1,1
-USA,1828,,,,0,,,,Atlantic Ocean Opposite Ocean City Harbor,or,0,0,0,5718,5718,,1,1,1
-USA,1910,,,,0,,,,Greater Lafourche Port  LA,LA,0,0,18003,49342,67345,,1,1,1
-USA,1911,,,,0,,,,Port Everglades  FL,FL,0,0,71322,214303,285625,,1,1,1
-USA,1912,,,,0,,,,Guaynabo  PR,PR,0,0,1613762,56573,1670335,,1,1,1
-USA,1913,4909,,4909,0,,,,San Juan  PR,PR,18.463134,-66.111774,3634530,213690,3848220,,1,1,1
-USA,2004,,,,0,,,,Jackson County Port  MS,MS,0,0,8350900,8650137,17001037,,1,1,1
-USA,2005,,,,0,,,,Mobile Harbor  AL,AL,0,0,20249865,16946472,37196337,,1,1,1
-USA,2007,1819,,1819,33,,,,Port of Pensacola  FL,FL,30.4059,-87.2106,81065,5455,86520,,1,1,1
-USA,2016,,,,0,,,,Panama City Port Authority  FL,FL,0,0,575363,1170787,1746150,,1,1,1
-USA,2017,,,,0,,,,Jacksonville  FL,FL,0,0,8406213,1605290,10011503,,1,1,1
-USA,2021,,,,0,,,,Tampa Port Authority  FL,FL,27.9504,-82.445,7588514,4317680,11906194,,1,1,1
-USA,2023,,,,0,,,,Manatee County Port  FL,FL,0,0,3045822,261964,3307786,,1,1,1
-USA,2031,,,,0,,,,Houston Port Authority  TX,TX,0,0,65561413,144189938,209751351,,1,1,1
-USA,2083,,,,0,,,,Gulfport  MS,MS,0,0,1403653,540529,1944182,,1,1,1
-USA,2142,,,,0,,,,Virgin Islands - St. Johns  VI,VI,0,0,2041,0,2041,,1,1,1
-USA,2143,,,,0,,,,Virgin Islands - St. Thomas  VI,VI,0,0,17955,897,18852,,1,1,1
-USA,2150,,,,0,,,,Jobos Harbor  PR,PR,0,0,1760889,0,1760889,,1,1,1
-USA,2151,4908,,4908,0,,,,Ponce Port Authority  PR,PR,18.0111,-66.6141,1084827,117428,1202255,,1,1,1
-USA,2152,,,,0,,,,Guayanilla Harbor  PR,PR,0,0,2588560,46356,2634916,,1,1,1
-USA,2154,4907,,4907,0,,,,Mayaguez  PR,PR,18.2185,-67.1597,10173,0,10173,,1,1,1
-USA,2156,,,,0,,,,Frederiksted St. Croix Island  VI,VI,0,0,0,9,9,,1,1,1
-USA,2157,,,,0,,,,Virgin Islands - St. Croix  VI,VI,0,0,9816,50140,59956,,1,1,1
-USA,2160,,,,0,,,,Canaveral Port District  FL,FL,0,0,4229237,30934,4260171,,1,1,1
-USA,2161,,,,0,,,,Fort Pierce  FL,FL,0,0,343,0,343,,1,1,1
-USA,2162,,,,0,,,,Port of Palm Beach District  FL,FL,0,0,382593,1180795,1563388,,1,1,1
-USA,2163,,,,0,,,,Port Everglades Harbor  FL,FL,0,0,7264204,3026152,10290356,,1,1,1
-USA,2164,5201,,5201,43,Miami Seaport,,,PortMiami  FL,FL,25.7745,-80.1709,5339546,3349040,8688586,,1,1,1
-USA,2168,,,,0,,,,Guanica  PR,PR,0,0,7977,0,7977,,1,1,1
-USA,2175,,,,0,,,,Port Harvey St. Croix Island  VI,VI,0,0,17770,39164,56934,,1,1,1
-USA,2176,,,,0,,,,Port Hess St. Croix Island  VI,VI,0,0,1746586,1937462,3684048,,1,1,1
-USA,2177,,,,0,,,,Tallaboa Bay  PR,PR,0,0,134838,0,134838,,1,1,1
-USA,2220,,,,0,,,,Yabucoa  PR,PR,0,0,1954797,380053,2334850,,1,1,1
-USA,2248,,,,0,,,,Lake Charles Harbor District  LA,LA,0,0,10590481,15670606,26261087,,1,1,1
-USA,2251,,,,0,,,,New Orleans  LA,LA,0,0,17796360,26205938,44002298,,1,1,1
-USA,2252,,,,0,,,,Port of Greater Baton Rouge  LA,LA,0,0,6892872,23141352,30034224,,1,1,1
-USA,2253,,,,0,,,,South Louisiana  LA  Port of,of,0,0,31571671,84048915,115620586,,1,1,1
-USA,2255,,,,0,,,,Plaquemines Port District  LA,LA,0,0,5581809,18217222,23799031,,1,1,1
-USA,2394,,,,0,,,,Orange County Port District  TX,TX,0,0,69,0,69,,1,1,1
-USA,2395,,,,0,,,,Beaumont  TX,TX,0,0,16500297,47676575,64176872,,1,1,1
-USA,2408,,,,0,,,,Port Freeport  TX,TX,0,0,7090199,18881424,25971623,,1,1,1
-USA,2414,,,,0,,,,Corpus Christi  TX (Excluding Harbor Island),d),0,0,18563381,66757015,85320396,,1,1,1
-USA,2416,,,,0,,,,Port Arthur  TX,TX,0,0,6928764,15745387,22674151,,1,1,1
-USA,2417,,,,0,,,,Galveston  TX,TX,0,0,2347794,3722413,6070207,,1,1,1
-USA,2418,,,,0,,,,Harbor Island  TX,TX,0,0,118869,0,118869,,1,1,1
-USA,2420,,,,0,,,,Brownsville  TX,TX,0,0,3268952,671040,3939992,,1,1,1
-USA,2422,,,,0,,,,Port Isabel-San Benito  TX,TX,0,0,90,0,90,,1,1,1
-USA,2427,,,,0,,,,Calhoun Port Authority  TX,TX,0,0,484570,1719096,2203666,,1,1,1
-USA,2428,,,,0,,,,Texas City  TX,TX,0,0,5879588,18757458,24637046,,1,1,1
-USA,2990,,,,0,,,,LA Offshore Oil Port(Loop) Gulf of Mexico,co,0,0,5040970,4383612,9424582,,1,1,1
-USA,3008,,,,0,,,,Ogdensburg Port Authority  NY,NY,0,0,52753,0,52753,,1,1,1
-USA,3106,,,,0,,,,Rochester  NY,NY,0,0,107739,0,107739,,1,1,1
-USA,3112,,,,0,,,,Oswego  NY,NY,0,0,312944,21162,334106,,1,1,1
-USA,3202,,,,0,,,,Monroe  MI,MI,0,0,58754,0,58754,,1,1,1
-USA,3204,,,,0,,,,Toledo-Lucas County Port  OH,OH,0,0,1891279,1826757,3718036,,1,1,1
-USA,3212,,,,0,,,,Marblehead  OH,OH,0,0,138582,152669,291251,,1,1,1
-USA,3213,,,,0,,,,Sandusky  OH,OH,0,0,200854,1098370,1299224,,1,1,1
-USA,3216,,,,0,,,,Lorain Port Authority  OH,OH,0,0,179543,12125,191668,,1,1,1
-USA,3217,,,,0,,,,Cleveland-Cuyahoga Port  OH,OH,0,0,1684979,65036,1750015,,1,1,1
-USA,3218,,,,0,,,,Fairport Harbor  OH,OH,0,0,59301,99869,159170,,1,1,1
-USA,3219,,,,0,,,,Ashtabula Port Authority  OH,OH,0,0,453892,185246,639138,,1,1,1
-USA,3220,,,,0,,,,Conneaut  OH,OH,0,0,169779,0,169779,,1,1,1
-USA,3221,,,,0,,,,Erie  PA,PA,0,0,66433,11023,77456,,1,1,1
-USA,3230,,,,0,,,,Buffalo  NY,NY,0,0,195538,0,195538,,1,1,1
-USA,3312,,,,0,,,,Ecorse  MI,MI,0,0,53568,0,53568,,1,1,1
-USA,3315,,,,0,,,,Rouge River  MI,MI,0,0,2262873,22088,2284961,,1,1,1
-USA,3318,,,,0,,,,Detroit Harbor  MI,MI,0,0,703162,0,703162,,1,1,1
-USA,3506,,,,0,,,,Marine City  MI,MI,0,0,60027,0,60027,,1,1,1
-USA,3512,,,,0,,,,Marysville  MI,MI,0,0,245793,15454,261247,,1,1,1
-USA,3515,,,,0,,,,Port Huron  MI,MI,0,0,76197,0,76197,,1,1,1
-USA,3601,,,,0,,,,Lake Huron,on,0,0,769426,36376,805802,,1,1,1
-USA,3617,,,,0,,,,Alpena  MI,MI,0,0,160637,20117,180754,,1,1,1
-USA,3619,,,,0,,,,Presque Isle Township  MI,MI,0,0,25943,381201,407144,,1,1,1
-USA,3621,,,,0,,,,Cheboygan  MI,MI,0,0,61652,32870,94522,,1,1,1
-USA,3627,,,,0,,,,Clark Township  MI,MI,0,0,15984,432510,448494,,1,1,1
-USA,3635,,,,0,,,,Rogers City  MI,MI,0,0,23187,104774,127961,,1,1,1
-USA,3701,,,,0,,,,Lake Michigan,an,0,0,940141,35486,975627,,1,1,1
-USA,3720,,,,0,,,,Manistee  MI,MI,0,0,77133,36376,113509,,1,1,1
-USA,3722,,,,0,,,,Ludington  MI,MI,0,0,43070,0,43070,,1,1,1
-USA,3725,,,,0,,,,Muskegon  MI,MI,0,0,531290,0,531290,,1,1,1
-USA,3730,,,,0,,,,Holland  MI,MI,0,0,56789,0,56789,,1,1,1
-USA,3736,,,,0,,,,Gary  IN,IN,0,0,30658,0,30658,,1,1,1
-USA,3738,,,,0,,,,Indiana Harbor  IN,IN,0,0,45853,0,45853,,1,1,1
-USA,3739,,,,0,,,,Ports Indiana - Burns Harbor  IN,IN,0,0,1191157,0,1191157,,1,1,1
-USA,3749,,,,0,,,,Illinois International Port  IL,IL,0,0,1634279,24606,1658885,,1,1,1
-USA,3756,,,,0,,,,Milwaukee  WI,WI,0,0,1475732,89414,1565146,,1,1,1
-USA,3760,,,,0,,,,Manitowoc Harbor Commission  WI,WI,0,0,24457,0,24457,,1,1,1
-USA,3793,,,,0,,,,Marinette-Menominee  MI and WI,WI,0,0,62601,0,62601,,1,1,1
-USA,3795,,,,0,,,,Escanaba  MI,MI,0,0,111518,0,111518,,1,1,1
-USA,3803,,,,0,,,,Mueller Township  MI,MI,0,0,80632,339478,420110,,1,1,1
-USA,3808,,,,0,,,,Detroit District Small Ports - Lake Michigan,an,0,0,0,29997,29997,,1,1,1
-USA,3813,,,,0,,,,Drummond Island  MI,MI,0,0,0,418521,418521,,1,1,1
-USA,3817,,,,0,,,,Sault Ste Marie  MI,MI,0,0,57713,13228,70941,,1,1,1
-USA,3844,,,,0,,,,Marquette Harbor  MI,MI,0,0,317639,78346,395985,,1,1,1
-USA,3845,,,,0,,,,Presque Isle  MI,MI,0,0,108033,996981,1105014,,1,1,1
-USA,3924,,,,0,,,,Duluth-Superior  MN and WI,WI,0,0,958446,6395243,7353689,,1,1,1
-USA,3926,,,,0,,,,Two Harbors  MN,MN,0,0,0,3504308,3504308,,1,1,1
-USA,3928,,,,0,,,,Silver Bay  MN,MN,0,0,0,92032,92032,,1,1,1
-USA,3929,,,,0,,,,Taconite  MN,MN,0,0,0,15,15,,1,1,1
-USA,4100,,,,0,,,,San Diego Unified Port  CA,CA,0,0,1321152,20155,1341307,,1,1,1
-USA,4110,,,,0,,,,Port of Long Beach  CA,CA,0,0,49227617,21955100,71182717,,1,1,1
-USA,4120,,,,0,,,,Port of Los Angeles  CA,CA,0,0,37699493,18551623,56251116,,1,1,1
-USA,4146,,,,0,,,,El Segundo  CA,CA,0,0,10770697,410922,11181619,,1,1,1
-USA,4148,,,,0,,,,Santa Monica  CA,CA,0,0,31161,0,31161,,1,1,1
-USA,4150,,,,0,,,,Oxnard Harbor District  CA,CA,0,0,1769779,153323,1923102,,1,1,1
-USA,4198,,,,0,,,,Oceanside Harbor  CA,CA,0,0,0,273,273,,1,1,1
-USA,4240,,,,0,,,,Sacramento-Yolo Port  CA,CA,0,0,705794,251142,956936,,1,1,1
-USA,4270,,,,0,,,,Stockton  CA,CA,0,0,2719400,2724282,5443682,,1,1,1
-USA,4335,,,,0,,,,San Francisco Port  CA,CA,0,0,823667,22259,845926,,1,1,1
-USA,4340,,,,0,,,,Redwood City  CA,CA,0,0,1825356,375018,2200374,,1,1,1
-USA,4344,,,,0,,,,Port of Oakland  CA,CA,0,0,7942721,9652378,17595099,,1,1,1
-USA,4345,,,,0,,,,Oakland Harbor  CA,CA,0,0,0,14374,14374,,1,1,1
-USA,4350,,,,0,,,,Richmond  CA,CA,0,0,15609048,5594615,21203663,,1,1,1
-USA,4375,,,,0,,,,Humboldt Bay Harbor  CA,CA,0,0,0,2999,2999,,1,1,1
-USA,4400,,,,0,,,,Hilo  Hawai'i  HI,HI,0,0,28001,0,28001,,1,1,1
-USA,4410,,,,0,,,,Kahului  Maui  HI,HI,0,0,29127,0,29127,,1,1,1
-USA,4420,,,,0,,,,Honolulu  O'ahu  HI,HI,0,0,1398877,195936,1594813,,1,1,1
-USA,4431,,,,0,,,,Nawiliwili  Kaua'i  HI,HI,0,0,36521,0,36521,,1,1,1
-USA,4445,,,,0,,,,Kewalo Basin  Honolulu  Oahu  HI,HI,0,0,42,0,42,,1,1,1
-USA,4458,,,,0,,,,Kalaeloa Barbers Point  HI,HI,0,0,4766600,476932,5243532,,1,1,1
-USA,4468,,,,0,,,,Lahaina  Maui  HI,HI,0,0,2284,0,2284,,1,1,1
-USA,4499,,,,0,,,,Hawaiian Islands Area  Other Ports,ts,0,0,6,0,6,,1,1,1
-USA,4610,,,,0,,,,Clatsop County Port District  OR,or,0,0,18,129179,129197,,1,1,1
-USA,4612,,,,0,,,,Portland  Astoria  St. Helens  Longview  Vancouver and Kalama Area  Other Ports,ts,0,0,346721,436679,783400,,1,1,1
-USA,4622,,,,0,,,,Port of Longview  WA,WA,0,0,295044,8243647,8538691,,1,1,1
-USA,4626,,,,0,,,,Port of Kalama  WA,WA,0,0,333617,15033000,15366617,,1,1,1
-USA,4636,,,,0,,,,Port of Vancouver USA  WA,WA,0,0,1417636,7374595,8792231,,1,1,1
-USA,4644,,,,0,,,,Port of Portland  OR,or,0,0,2194696,10033364,12228060,,1,1,1
-USA,4660,,,,0,,,,Coos Bay  OR - Navigation Project,CT,0,0,249834,1795634,2045468,,1,1,1
-USA,4702,,,,0,,,,Grays Harbor Port District  WA,WA,0,0,107526,2674976,2782502,,1,1,1
-USA,4707,,,,0,,,,Clallam County Port District  WA,WA,0,0,11734,247061,258795,,1,1,1
-USA,4718,,,,0,,,,Port of Olympia  WA,WA,0,0,0,547128,547128,,1,1,1
-USA,4720,,,,0,,,,Tacoma  WA,WA,0,0,6612732,10569461,17182193,,1,1,1
-USA,4722,,,,0,,,,Seattle  WA,WA,0,0,8527280,9147220,17674500,,1,1,1
-USA,4725,,,,0,,,,Everett  WA,WA,0,0,303303,8682,311985,,1,1,1
-USA,4730,,,,0,,,,Anacortes  WA,WA,0,0,434858,1440998,1875856,,1,1,1
-USA,4732,,,,0,,,,Bellingham  WA,WA,0,0,5515,9923,15438,,1,1,1
-USA,4754,,,,0,,,,Puget Sound Area  WA  Other Ports,ts,0,0,3914083,3344714,7258797,,1,1,1
-USA,4800,,,,0,,,,Ketchikan  AK,AK,0,0,109994,0,109994,,1,1,1
-USA,4802,,,,0,,,,Wrangell  AK,AK,0,0,0,0,0,,1,1,1
-USA,4808,,,,0,,,,Sitka Ports and Harbor  AK,AK,0,0,6614,0,6614,,1,1,1
-USA,4810,,,,0,,,,Juneau Harbor  AK,AK,0,0,28674,0,28674,,1,1,1
-USA,4812,,,,0,,,,Skagway  AK,AK,0,0,0,20439,20439,,1,1,1
-USA,4816,,,,0,,,,Valdez  AK,AK,0,0,0,919975,919975,,1,1,1
-USA,4820,,,,0,,,,Port of Alaska  AK,AK,0,0,1104997,15906,1120903,,1,1,1
-USA,4822,,,,0,,,,Whittier  AK,AK,0,0,19717,0,19717,,1,1,1
-USA,4831,,,,0,,,,Nikiski  AK,AK,0,0,113734,85539,199273,,1,1,1
-USA,4834,,,,0,,,,Craig  AK,AK,0,0,55365,0,55365,,1,1,1
-USA,4844,,,,0,,,,Homer  AK,AK,0,0,155809,0,155809,,1,1,1
-USA,4864,,,,0,,,,Haines Borough  AK,AK,0,0,5889,0,5889,,1,1,1
-USA,4885,,,,0,,,,Hydaburg  AK,AK,0,0,0,166645,166645,,1,1,1
-USA,4886,,,,0,,,,Klawock  AK,AK,0,0,0,55134,55134,,1,1,1
-USA,4889,,,,0,,,,Togiak Bay  AK,AK,0,0,19659,14701,34360,,1,1,1
-USA,4908,,,,0,,,,Dutch Harbor  Unalaska,ka,0,0,14691,364323,379014,,1,1,1
-USA,4909,,,,0,,,,Iliuliuk Harbor  AK,AK,0,0,145745,249988,395733,,1,1,1
-USA,4930,,,,0,,,,Seward  AK,AK,0,0,11070,0,11070,,1,1,1
-USA,4931,,,,0,,,,Yakutat  AK,AK,0,0,0,25717,25717,,1,1,1
-USA,4932,,,,0,,,,Afognak Bay  AK,AK,0,0,54,100886,100940,,1,1,1
-USA,4934,,,,0,,,,Kodiak  AK,AK,0,0,0,10016,10016,,1,1,1
-USA,4935,,,,0,,,,Kodiak Island  AK,AK,0,0,0,2685,2685,,1,1,1
-USA,4946,,,,0,,,,Akutan Island  AK,AK,0,0,0,15286,15286,,1,1,1
-USA,4947,,,,0,,,,Unalaska Island  AK,AK,0,0,194880,90898,285778,,1,1,1
-USA,4951,,,,0,,,,Adak Island  AK,AK,0,0,0,30298,30298,,1,1,1
-USA,4968,,,,0,,,,Nome  AK,AK,0,0,86689,0,86689,,1,1,1
-USA,4971,,,,0,,,,St. Lawrence Island  AK,AK,0,0,25765,0,25765,,1,1,1
-USA,4978,,,,0,,,,Kivalina  AK,AK,0,0,71755,1348750,1420505,,1,1,1
-USA,5251,,,,0,,,,Marcus Hook  PA,PA,0,0,3558785,4516392,8075177,,1,1,1
-USA,5252,,,,0,,,,Paulsboro  NJ,NJ,0,0,11262367,471984,11734351,,1,1,1
-USA,9551,,,,0,,,,Burlington-Florence-Roebling NJ,NJ,0,0,260065,0,260065,,1,1,1
-USA,9558,,,,0,,,,Lower Delaware Bay DE,DE,0,0,5646710,20834,5667544,,1,1,1
-CANADA,,,CANNO,CANNO,,,Nanaimo Port Authority,Government of Canada,Port of Nanaimo,BC,49.165882,-123.940063,1,1,1,2019,1,1,29762
-CANADA,,,,,,,Port Alberni Port Authority,Government of Canada,,BC,49.2339,-124.8055,1,1,1,1,1,1,1
-CANADA,,,CAPRR,CAPRR,52,,Prince Rupert Port Authority,Government of Canada,Port of Prince Rupert,BC,54.1718,-130.2122,1,1,1,2019,1,1,1210797
-CANADA,,,CAVAN,CAVAN,60,,Vancouver Fraser Port Authority,Government of Canada,Port of Vancouver,BC,49.1637,-123.0715,1,1,1,2019,1,1,3398861
-CANADA,,,CAHAM,CAHAM,,,Hamilton-Oshawa Port Authority,Government of Canada,Port of Hamilton,ON,43.2732,-79.8622,1,1,1,1,1,1,1
-CANADA,,,CAOSH,CAOSH,,,Hamilton-Oshawa Port Authority,Government of Canada,Port of Oshawa,ON,43.865,-78.8251,1,1,1,1,1,1,1
-CANADA,,,,,,,Toronto Port Authority,Government of Canada,Port of Toronto,ON,43.6348,-79.3492,1,1,1,1,1,1,1
-CANADA,,,,,,,Thunder Bay Port Authority,Government of Canada,Port of Thunder Bay,ON,48.4066,-89.2173,1,1,1,1,1,1,1
-CANADA,,,,,,,Windsor Port Authority,Government of Canada,Port of Windsor,ON,42.3023,-83.0757,1,1,1,1,1,1,1
-CANADA,,,CAMTR,CAMTR,0,,Montreal Port Authority,Government of Canada,Port of Montreal,QC,45.547,-73.53,1,1,1,2019,1,1,1745244
-CANADA,,,,,,,Quebec Port Authority,Government of Canada,Port of Quebec,QC,46.8211,-71.2066,1,1,1,1,1,1,1
-CANADA,,,,,,,Saguenay Port Authority,Government of Canada,,QC,0,0,1,1,1,1,1,1,1
-CANADA,,,,,,,Sept-Îles Port Authority,Government of Canada,,QC,0,0,1,1,1,1,1,1,1
-CANADA,,,,,,,Trois-Rivières Port Authority,Government of Canada,,QC,0,0,1,1,1,1,1,1,1
-CANADA,,,,,,,Belledune Port Authority,Government of Canada,,NB,0,0,1,1,1,1,1,1,1
-CANADA,,,CASJB,CASJB,42,,Saint John Port Authority,Government of Canada,Port of Saint John,NB,45.2796,-66.0628,1,1,1,2019,1,1,68878
-CANADA,,,CAHAL,CAHAL,55,,Halifax Port Authority,Government of Canada,Port of Halifax,NS,44.636,-63.551,1,1,1,2019,1,1,546691
-CANADA,,,,,,,St. John’s Port Authority,Government of Canada,,NL,0,0,1,1,1,1,1,1,1
+country_name,port_id,port_code,un_locode,display_code,draft_depth,name1,port_authority,owned_by,port_name,state,lat,lon,tonnage_im,tonnage_ex,tonnage,year,teus_im,teus_ex,teus,,
+USA,22,,,,0,,,,Fore River  ME,ME,0,0,3346733,23992,3370725,,1,1,1,,
+USA,28,,,,0,,,,Piscataqua River  ME and NH,NH,0,0,2153559,33400,2186959,,1,1,1,,
+USA,101,,,,0,,,,Eastport Port Authority  ME,ME,0,0,267,216188,216455,,1,1,1,,
+USA,110,,,,0,,,,Bucksport Harbor  ME,ME,0,0,91942,0,91942,,1,1,1,,
+USA,112,,,,0,,,,Searsport  ME,ME,0,0,1269948,30538,1300486,,1,1,1,,
+USA,115,,,,0,,,,Belfast Harbor  ME,ME,0,0,54313,0,54313,,1,1,1,,
+USA,128,,,,0,,,,Portland  ME,ME,0,0,232770,1166,233936,,1,1,1,,
+USA,149,,,,0,,,,Boston  MA,MA,0,0,9108255,1748617,10856872,,1,1,1,,
+USA,187,,,,0,,,,New Bedford Port Authority  MA,MA,0,0,5797,0,5797,,1,1,1,,
+USA,189,,,,0,,,,Fall River Port Authority  MA,MA,0,0,55904,0,55904,,1,1,1,,
+USA,191,,,,0,,,,Port of Providence  RI,RI,0,0,4168209,594462,4762671,,1,1,1,,
+USA,196,,,,0,,,,Narragansett Bay  RI,RI,0,0,540418,9010,549428,,1,1,1,,
+USA,297,,,,0,,,,Chester  PA,PA,0,0,1378443,341686,1720129,,1,1,1,,
+USA,298,,,,0,,,,Penn Manor  PA,PA,0,0,1865456,363764,2229220,,1,1,1,,
+USA,299,,,,0,,,,New Castle  DE,DE,0,0,2626311,173241,2799552,,1,1,1,,
+USA,304,,,,0,,,,New London  CT,CT,0,0,330674,0,330674,,1,1,1,,
+USA,311,,,,0,,,,Bridgeport  CT,CT,0,0,64540,0,64540,,1,1,1,,
+USA,398,4601,,4601,50,Port of New York and New Jersey,,,Port of New York and New Jersey,NJ,40.684,-74.0062,73523481,17727305,91250786,,1,1,1,,
+USA,399,,,,0,,,,Northville  Long Island  NY,NY,0,0,1979031,443611,2422642,,1,1,1,,
+USA,505,,,,0,,,,Albany Port District  NY,NY,0,0,596442,149254,745696,,1,1,1,,
+USA,551,,,,0,,,,Camden-Gloucester  NJ,NJ,0,0,2446644,761904,3208548,,1,1,1,,
+USA,552,,,,0,,,,Philadelphia Regional Port  PA,PA,0,0,8360505,887773,9248278,,1,1,1,,
+USA,554,,,,0,,,,Wilmington  DE,DE,0,0,4040216,1887832,5928048,,1,1,1,,
+USA,700,,,,0,,,,Baltimore  MD,MD,0,0,13628064,24002472,37630536,,1,1,1,,
+USA,736,,,,0,,,,Newport News  VA,VA,0,0,362640,16919246,17281886,,1,1,1,,
+USA,738,,,,0,,,,Hopewell  VA,VA,0,0,34125,268185,302310,,1,1,1,,
+USA,742,,,,0,,,,Elizabeth River (Southern Branch) VA,VA,0,0,1326742,3974384,5301126,,1,1,1,,
+USA,743,,,,0,,,,Elizabeth River (Eastern Branch) VA,VA,0,0,12318,86950,99268,,1,1,1,,
+USA,744,,,,0,,,,Elizabeth River  VA,VA,0,0,11177978,23310278,34488256,,1,1,1,,
+USA,764,,,,0,,,,Morehead City  NC,NC,0,0,1077386,444714,1522100,,1,1,1,,
+USA,766,,,,0,,,,Wilmington  NC,NC,0,0,3628898,2238777,5867675,,1,1,1,,
+USA,772,,,,0,,,,Port of Georgetown  SC,SC,0,0,0,49,49,,1,1,1,,
+USA,773,,,,0,,,,Port of Charleston  SC,SC,0,0,14076087,8526903,22602990,,1,1,1,,
+USA,776,,,,0,,,,Port of Savannah  GA,GA,0,0,23441299,17576726,41018025,,1,1,1,,
+USA,779,,,,0,,,,East River and Oglethorpe Bay  GA,GA,0,0,290157,806726,1096883,,1,1,1,,
+USA,781,,,,0,,,,Turtle River  GA,GA,0,0,884576,258676,1143252,,1,1,1,,
+USA,784,,,,0,,,,Ocean Port Authority  FL,FL,0,0,33835,134363,168198,,1,1,1,,
+USA,1258,,,,0,,,,Southport  NC,NC,0,0,74769,0,74769,,1,1,1,,
+USA,1507,,,,0,,,,New Haven  CT,CT,0,0,3231168,264060,3495228,,1,1,1,,
+USA,1827,,,,0,,,,Atlantic Ocean Opposite Indian River Inlet,et,0,0,103953,0,103953,,1,1,1,,
+USA,1828,,,,0,,,,Atlantic Ocean Opposite Ocean City Harbor,or,0,0,0,5718,5718,,1,1,1,,
+USA,1910,,,,0,,,,Greater Lafourche Port  LA,LA,0,0,18003,49342,67345,,1,1,1,,
+USA,1911,,,,0,,,,Port Everglades  FL,FL,0,0,71322,214303,285625,,1,1,1,,
+USA,1912,,,,0,,,,Guaynabo  PR,PR,0,0,1613762,56573,1670335,,1,1,1,,
+USA,1913,4909,,4909,0,,,,San Juan  PR,PR,18.463134,-66.111774,3634530,213690,3848220,,1,1,1,,
+USA,2004,,,,0,,,,Jackson County Port  MS,MS,0,0,8350900,8650137,17001037,,1,1,1,,
+USA,2005,,,,0,,,,Mobile Harbor  AL,AL,0,0,20249865,16946472,37196337,,1,1,1,,
+USA,2007,1819,,1819,33,,,,Port of Pensacola  FL,FL,30.4059,-87.2106,81065,5455,86520,,1,1,1,,
+USA,2016,,,,0,,,,Panama City Port Authority  FL,FL,0,0,575363,1170787,1746150,,1,1,1,,
+USA,2017,,,,0,,,,Jacksonville  FL,FL,0,0,8406213,1605290,10011503,,1,1,1,,
+USA,2021,,,,0,,,,Tampa Port Authority  FL,FL,27.9504,-82.445,7588514,4317680,11906194,,1,1,1,,
+USA,2023,,,,0,,,,Manatee County Port  FL,FL,0,0,3045822,261964,3307786,,1,1,1,,
+USA,2031,,,,0,,,,Houston Port Authority  TX,TX,0,0,65561413,144189938,209751351,,1,1,1,,
+USA,2083,,,,0,,,,Gulfport  MS,MS,0,0,1403653,540529,1944182,,1,1,1,,
+USA,2142,,,,0,,,,Virgin Islands - St. Johns  VI,VI,0,0,2041,0,2041,,1,1,1,,
+USA,2143,,,,0,,,,Virgin Islands - St. Thomas  VI,VI,0,0,17955,897,18852,,1,1,1,,
+USA,2150,,,,0,,,,Jobos Harbor  PR,PR,0,0,1760889,0,1760889,,1,1,1,,
+USA,2151,4908,,4908,0,,,,Ponce Port Authority  PR,PR,18.0111,-66.6141,1084827,117428,1202255,,1,1,1,,
+USA,2152,,,,0,,,,Guayanilla Harbor  PR,PR,0,0,2588560,46356,2634916,,1,1,1,,
+USA,2154,4907,,4907,0,,,,Mayaguez  PR,PR,18.2185,-67.1597,10173,0,10173,,1,1,1,,
+USA,2156,,,,0,,,,Frederiksted St. Croix Island  VI,VI,0,0,0,9,9,,1,1,1,,
+USA,2157,,,,0,,,,Virgin Islands - St. Croix  VI,VI,0,0,9816,50140,59956,,1,1,1,,
+USA,2160,,,,0,,,,Canaveral Port District  FL,FL,0,0,4229237,30934,4260171,,1,1,1,,
+USA,2161,,,,0,,,,Fort Pierce  FL,FL,0,0,343,0,343,,1,1,1,,
+USA,2162,,,,0,,,,Port of Palm Beach District  FL,FL,0,0,382593,1180795,1563388,,1,1,1,,
+USA,2163,,,,0,,,,Port Everglades Harbor  FL,FL,0,0,7264204,3026152,10290356,,1,1,1,,
+USA,2164,5201,,5201,43,Miami Seaport,,,PortMiami  FL,FL,25.7745,-80.1709,5339546,3349040,8688586,,1,1,1,,
+USA,2168,,,,0,,,,Guanica  PR,PR,0,0,7977,0,7977,,1,1,1,,
+USA,2175,,,,0,,,,Port Harvey St. Croix Island  VI,VI,0,0,17770,39164,56934,,1,1,1,,
+USA,2176,,,,0,,,,Port Hess St. Croix Island  VI,VI,0,0,1746586,1937462,3684048,,1,1,1,,
+USA,2177,,,,0,,,,Tallaboa Bay  PR,PR,0,0,134838,0,134838,,1,1,1,,
+USA,2220,,,,0,,,,Yabucoa  PR,PR,0,0,1954797,380053,2334850,,1,1,1,,
+USA,2248,,,,0,,,,Lake Charles Harbor District  LA,LA,0,0,10590481,15670606,26261087,,1,1,1,,
+USA,2251,,,,0,,,,New Orleans  LA,LA,0,0,17796360,26205938,44002298,,1,1,1,,
+USA,2252,,,,0,,,,Port of Greater Baton Rouge  LA,LA,0,0,6892872,23141352,30034224,,1,1,1,,
+USA,2253,,,,0,,,,South Louisiana  LA  Port of,of,0,0,31571671,84048915,115620586,,1,1,1,,
+USA,2255,,,,0,,,,Plaquemines Port District  LA,LA,0,0,5581809,18217222,23799031,,1,1,1,,
+USA,2394,,,,0,,,,Orange County Port District  TX,TX,0,0,69,0,69,,1,1,1,,
+USA,2395,,,,0,,,,Beaumont  TX,TX,0,0,16500297,47676575,64176872,,1,1,1,,
+USA,2408,,,,0,,,,Port Freeport  TX,TX,0,0,7090199,18881424,25971623,,1,1,1,,
+USA,2414,,,,0,,,,Corpus Christi  TX (Excluding Harbor Island),d),0,0,18563381,66757015,85320396,,1,1,1,,
+USA,2416,,,,0,,,,Port Arthur  TX,TX,0,0,6928764,15745387,22674151,,1,1,1,,
+USA,2417,,,,0,,,,Galveston  TX,TX,0,0,2347794,3722413,6070207,,1,1,1,,
+USA,2418,,,,0,,,,Harbor Island  TX,TX,0,0,118869,0,118869,,1,1,1,,
+USA,2420,,,,0,,,,Brownsville  TX,TX,0,0,3268952,671040,3939992,,1,1,1,,
+USA,2422,,,,0,,,,Port Isabel-San Benito  TX,TX,0,0,90,0,90,,1,1,1,,
+USA,2427,,,,0,,,,Calhoun Port Authority  TX,TX,0,0,484570,1719096,2203666,,1,1,1,,
+USA,2428,,,,0,,,,Texas City  TX,TX,0,0,5879588,18757458,24637046,,1,1,1,,
+USA,2990,,,,0,,,,LA Offshore Oil Port(Loop) Gulf of Mexico,co,0,0,5040970,4383612,9424582,,1,1,1,,
+USA,3008,,,,0,,,,Ogdensburg Port Authority  NY,NY,0,0,52753,0,52753,,1,1,1,,
+USA,3106,,,,0,,,,Rochester  NY,NY,0,0,107739,0,107739,,1,1,1,,
+USA,3112,,,,0,,,,Oswego  NY,NY,0,0,312944,21162,334106,,1,1,1,,
+USA,3202,,,,0,,,,Monroe  MI,MI,0,0,58754,0,58754,,1,1,1,,
+USA,3204,,,,0,,,,Toledo-Lucas County Port  OH,OH,0,0,1891279,1826757,3718036,,1,1,1,,
+USA,3212,,,,0,,,,Marblehead  OH,OH,0,0,138582,152669,291251,,1,1,1,,
+USA,3213,,,,0,,,,Sandusky  OH,OH,0,0,200854,1098370,1299224,,1,1,1,,
+USA,3216,,,,0,,,,Lorain Port Authority  OH,OH,0,0,179543,12125,191668,,1,1,1,,
+USA,3217,,,,0,,,,Cleveland-Cuyahoga Port  OH,OH,0,0,1684979,65036,1750015,,1,1,1,,
+USA,3218,,,,0,,,,Fairport Harbor  OH,OH,0,0,59301,99869,159170,,1,1,1,,
+USA,3219,,,,0,,,,Ashtabula Port Authority  OH,OH,0,0,453892,185246,639138,,1,1,1,,
+USA,3220,,,,0,,,,Conneaut  OH,OH,0,0,169779,0,169779,,1,1,1,,
+USA,3221,,,,0,,,,Erie  PA,PA,0,0,66433,11023,77456,,1,1,1,,
+USA,3230,,,,0,,,,Buffalo  NY,NY,0,0,195538,0,195538,,1,1,1,,
+USA,3312,,,,0,,,,Ecorse  MI,MI,0,0,53568,0,53568,,1,1,1,,
+USA,3315,,,,0,,,,Rouge River  MI,MI,0,0,2262873,22088,2284961,,1,1,1,,
+USA,3318,,,,0,,,,Detroit Harbor  MI,MI,0,0,703162,0,703162,,1,1,1,,
+USA,3506,,,,0,,,,Marine City  MI,MI,0,0,60027,0,60027,,1,1,1,,
+USA,3512,,,,0,,,,Marysville  MI,MI,0,0,245793,15454,261247,,1,1,1,,
+USA,3515,,,,0,,,,Port Huron  MI,MI,0,0,76197,0,76197,,1,1,1,,
+USA,3601,,,,0,,,,Lake Huron,on,0,0,769426,36376,805802,,1,1,1,,
+USA,3617,,,,0,,,,Alpena  MI,MI,0,0,160637,20117,180754,,1,1,1,,
+USA,3619,,,,0,,,,Presque Isle Township  MI,MI,0,0,25943,381201,407144,,1,1,1,,
+USA,3621,,,,0,,,,Cheboygan  MI,MI,0,0,61652,32870,94522,,1,1,1,,
+USA,3627,,,,0,,,,Clark Township  MI,MI,0,0,15984,432510,448494,,1,1,1,,
+USA,3635,,,,0,,,,Rogers City  MI,MI,0,0,23187,104774,127961,,1,1,1,,
+USA,3701,,,,0,,,,Lake Michigan,an,0,0,940141,35486,975627,,1,1,1,,
+USA,3720,,,,0,,,,Manistee  MI,MI,0,0,77133,36376,113509,,1,1,1,,
+USA,3722,,,,0,,,,Ludington  MI,MI,0,0,43070,0,43070,,1,1,1,,
+USA,3725,,,,0,,,,Muskegon  MI,MI,0,0,531290,0,531290,,1,1,1,,
+USA,3730,,,,0,,,,Holland  MI,MI,0,0,56789,0,56789,,1,1,1,,
+USA,3736,,,,0,,,,Gary  IN,IN,0,0,30658,0,30658,,1,1,1,,
+USA,3738,,,,0,,,,Indiana Harbor  IN,IN,0,0,45853,0,45853,,1,1,1,,
+USA,3739,,,,0,,,,Ports Indiana - Burns Harbor  IN,IN,0,0,1191157,0,1191157,,1,1,1,,
+USA,3749,,,,0,,,,Illinois International Port  IL,IL,0,0,1634279,24606,1658885,,1,1,1,,
+USA,3756,,,,0,,,,Milwaukee  WI,WI,0,0,1475732,89414,1565146,,1,1,1,,
+USA,3760,,,,0,,,,Manitowoc Harbor Commission  WI,WI,0,0,24457,0,24457,,1,1,1,,
+USA,3793,,,,0,,,,Marinette-Menominee  MI and WI,WI,0,0,62601,0,62601,,1,1,1,,
+USA,3795,,,,0,,,,Escanaba  MI,MI,0,0,111518,0,111518,,1,1,1,,
+USA,3803,,,,0,,,,Mueller Township  MI,MI,0,0,80632,339478,420110,,1,1,1,,
+USA,3808,,,,0,,,,Detroit District Small Ports - Lake Michigan,an,0,0,0,29997,29997,,1,1,1,,
+USA,3813,,,,0,,,,Drummond Island  MI,MI,0,0,0,418521,418521,,1,1,1,,
+USA,3817,,,,0,,,,Sault Ste Marie  MI,MI,0,0,57713,13228,70941,,1,1,1,,
+USA,3844,,,,0,,,,Marquette Harbor  MI,MI,0,0,317639,78346,395985,,1,1,1,,
+USA,3845,,,,0,,,,Presque Isle  MI,MI,0,0,108033,996981,1105014,,1,1,1,,
+USA,3924,,,,0,,,,Duluth-Superior  MN and WI,WI,0,0,958446,6395243,7353689,,1,1,1,,
+USA,3926,,,,0,,,,Two Harbors  MN,MN,0,0,0,3504308,3504308,,1,1,1,,
+USA,3928,,,,0,,,,Silver Bay  MN,MN,0,0,0,92032,92032,,1,1,1,,
+USA,3929,,,,0,,,,Taconite  MN,MN,0,0,0,15,15,,1,1,1,,
+USA,4100,,,,0,,,,San Diego Unified Port  CA,CA,0,0,1321152,20155,1341307,,1,1,1,,
+USA,4110,,,,0,,,,Port of Long Beach  CA,CA,0,0,49227617,21955100,71182717,,1,1,1,,
+USA,4120,,,,0,,,,Port of Los Angeles  CA,CA,0,0,37699493,18551623,56251116,,1,1,1,,
+USA,4146,,,,0,,,,El Segundo  CA,CA,0,0,10770697,410922,11181619,,1,1,1,,
+USA,4148,,,,0,,,,Santa Monica  CA,CA,0,0,31161,0,31161,,1,1,1,,
+USA,4150,,,,0,,,,Oxnard Harbor District  CA,CA,0,0,1769779,153323,1923102,,1,1,1,,
+USA,4198,,,,0,,,,Oceanside Harbor  CA,CA,0,0,0,273,273,,1,1,1,,
+USA,4240,,,,0,,,,Sacramento-Yolo Port  CA,CA,0,0,705794,251142,956936,,1,1,1,,
+USA,4270,,,,0,,,,Stockton  CA,CA,0,0,2719400,2724282,5443682,,1,1,1,,
+USA,4335,,,,0,,,,San Francisco Port  CA,CA,0,0,823667,22259,845926,,1,1,1,,
+USA,4340,,,,0,,,,Redwood City  CA,CA,0,0,1825356,375018,2200374,,1,1,1,,
+USA,4344,,,,0,,,,Port of Oakland  CA,CA,0,0,7942721,9652378,17595099,,1,1,1,,
+USA,4345,,,,0,,,,Oakland Harbor  CA,CA,0,0,0,14374,14374,,1,1,1,,
+USA,4350,,,,0,,,,Richmond  CA,CA,0,0,15609048,5594615,21203663,,1,1,1,,
+USA,4375,,,,0,,,,Humboldt Bay Harbor  CA,CA,0,0,0,2999,2999,,1,1,1,,
+USA,4400,,,,0,,,,Hilo  Hawai'i  HI,HI,0,0,28001,0,28001,,1,1,1,,
+USA,4410,,,,0,,,,Kahului  Maui  HI,HI,0,0,29127,0,29127,,1,1,1,,
+USA,4420,,,,0,,,,Honolulu  O'ahu  HI,HI,0,0,1398877,195936,1594813,,1,1,1,,
+USA,4431,,,,0,,,,Nawiliwili  Kaua'i  HI,HI,0,0,36521,0,36521,,1,1,1,,
+USA,4445,,,,0,,,,Kewalo Basin  Honolulu  Oahu  HI,HI,0,0,42,0,42,,1,1,1,,
+USA,4458,,,,0,,,,Kalaeloa Barbers Point  HI,HI,0,0,4766600,476932,5243532,,1,1,1,,
+USA,4468,,,,0,,,,Lahaina  Maui  HI,HI,0,0,2284,0,2284,,1,1,1,,
+USA,4499,,,,0,,,,Hawaiian Islands Area  Other Ports,ts,0,0,6,0,6,,1,1,1,,
+USA,4610,,,,0,,,,Clatsop County Port District  OR,or,0,0,18,129179,129197,,1,1,1,,
+USA,4612,,,,0,,,,Portland  Astoria  St. Helens  Longview  Vancouver and Kalama Area  Other Ports,ts,0,0,346721,436679,783400,,1,1,1,,
+USA,4622,,,,0,,,,Port of Longview  WA,WA,0,0,295044,8243647,8538691,,1,1,1,,
+USA,4626,,,,0,,,,Port of Kalama  WA,WA,0,0,333617,15033000,15366617,,1,1,1,,
+USA,4636,,,,0,,,,Port of Vancouver USA  WA,WA,0,0,1417636,7374595,8792231,,1,1,1,,
+USA,4644,,,,0,,,,Port of Portland  OR,or,0,0,2194696,10033364,12228060,,1,1,1,,
+USA,4660,,,,0,,,,Coos Bay  OR - Navigation Project,CT,0,0,249834,1795634,2045468,,1,1,1,,
+USA,4702,,,,0,,,,Grays Harbor Port District  WA,WA,0,0,107526,2674976,2782502,,1,1,1,,
+USA,4707,,,,0,,,,Clallam County Port District  WA,WA,0,0,11734,247061,258795,,1,1,1,,
+USA,4718,,,,0,,,,Port of Olympia  WA,WA,0,0,0,547128,547128,,1,1,1,,
+USA,4720,,,,0,,,,Tacoma  WA,WA,0,0,6612732,10569461,17182193,,1,1,1,,
+USA,4722,,,,0,,,,Seattle  WA,WA,0,0,8527280,9147220,17674500,,1,1,1,,
+USA,4725,,,,0,,,,Everett  WA,WA,0,0,303303,8682,311985,,1,1,1,,
+USA,4730,,,,0,,,,Anacortes  WA,WA,0,0,434858,1440998,1875856,,1,1,1,,
+USA,4732,,,,0,,,,Bellingham  WA,WA,0,0,5515,9923,15438,,1,1,1,,
+USA,4754,,,,0,,,,Puget Sound Area  WA  Other Ports,ts,0,0,3914083,3344714,7258797,,1,1,1,,
+USA,4800,,,,0,,,,Ketchikan  AK,AK,0,0,109994,0,109994,,1,1,1,,
+USA,4802,,,,0,,,,Wrangell  AK,AK,0,0,0,0,0,,1,1,1,,
+USA,4808,,,,0,,,,Sitka Ports and Harbor  AK,AK,0,0,6614,0,6614,,1,1,1,,
+USA,4810,,,,0,,,,Juneau Harbor  AK,AK,0,0,28674,0,28674,,1,1,1,,
+USA,4812,,,,0,,,,Skagway  AK,AK,0,0,0,20439,20439,,1,1,1,,
+USA,4816,,,,0,,,,Valdez  AK,AK,0,0,0,919975,919975,,1,1,1,,
+USA,4820,,,,0,,,,Port of Alaska  AK,AK,0,0,1104997,15906,1120903,,1,1,1,,
+USA,4822,,,,0,,,,Whittier  AK,AK,0,0,19717,0,19717,,1,1,1,,
+USA,4831,,,,0,,,,Nikiski  AK,AK,0,0,113734,85539,199273,,1,1,1,,
+USA,4834,,,,0,,,,Craig  AK,AK,0,0,55365,0,55365,,1,1,1,,
+USA,4844,,,,0,,,,Homer  AK,AK,0,0,155809,0,155809,,1,1,1,,
+USA,4864,,,,0,,,,Haines Borough  AK,AK,0,0,5889,0,5889,,1,1,1,,
+USA,4885,,,,0,,,,Hydaburg  AK,AK,0,0,0,166645,166645,,1,1,1,,
+USA,4886,,,,0,,,,Klawock  AK,AK,0,0,0,55134,55134,,1,1,1,,
+USA,4889,,,,0,,,,Togiak Bay  AK,AK,0,0,19659,14701,34360,,1,1,1,,
+USA,4908,,,,0,,,,Dutch Harbor  Unalaska,ka,0,0,14691,364323,379014,,1,1,1,,
+USA,4909,,,,0,,,,Iliuliuk Harbor  AK,AK,0,0,145745,249988,395733,,1,1,1,,
+USA,4930,,,,0,,,,Seward  AK,AK,0,0,11070,0,11070,,1,1,1,,
+USA,4931,,,,0,,,,Yakutat  AK,AK,0,0,0,25717,25717,,1,1,1,,
+USA,4932,,,,0,,,,Afognak Bay  AK,AK,0,0,54,100886,100940,,1,1,1,,
+USA,4934,,,,0,,,,Kodiak  AK,AK,0,0,0,10016,10016,,1,1,1,,
+USA,4935,,,,0,,,,Kodiak Island  AK,AK,0,0,0,2685,2685,,1,1,1,,
+USA,4946,,,,0,,,,Akutan Island  AK,AK,0,0,0,15286,15286,,1,1,1,,
+USA,4947,,,,0,,,,Unalaska Island  AK,AK,0,0,194880,90898,285778,,1,1,1,,
+USA,4951,,,,0,,,,Adak Island  AK,AK,0,0,0,30298,30298,,1,1,1,,
+USA,4968,,,,0,,,,Nome  AK,AK,0,0,86689,0,86689,,1,1,1,,
+USA,4971,,,,0,,,,St. Lawrence Island  AK,AK,0,0,25765,0,25765,,1,1,1,,
+USA,4978,,,,0,,,,Kivalina  AK,AK,0,0,71755,1348750,1420505,,1,1,1,,
+USA,5251,,,,0,,,,Marcus Hook  PA,PA,0,0,3558785,4516392,8075177,,1,1,1,,
+USA,5252,,,,0,,,,Paulsboro  NJ,NJ,0,0,11262367,471984,11734351,,1,1,1,,
+USA,9551,,,,0,,,,Burlington-Florence-Roebling NJ,NJ,0,0,260065,0,260065,,1,1,1,,
+USA,9558,,,,0,,,,Lower Delaware Bay DE,DE,0,0,5646710,20834,5667544,,1,1,1,,
+CANADA,,,CANNO,CANNO,,,Nanaimo Port Authority,Government of Canada,Port of Nanaimo,BC,49.165882,-123.940063,,,,2019,,,29762,,
+CANADA,,,,,,,Port Alberni Port Authority,Government of Canada,,BC,49.2339,-124.8055,,,,,,,0,,
+CANADA,,,CAPRR,CAPRR,52,,Prince Rupert Port Authority,Government of Canada,Port of Prince Rupert,BC,54.1718,-130.2122,,,,2019,,,1210797,,
+CANADA,,,CAVAN,CAVAN,60,,Vancouver Fraser Port Authority,Government of Canada,Port of Vancouver,BC,49.1637,-123.0715,,,,2019,,,3398861,,
+CANADA,,,CAHAM,CAHAM,,,Hamilton-Oshawa Port Authority,Government of Canada,Port of Hamilton,ON,43.2732,-79.8622,,,,,,,0,,
+CANADA,,,CAOSH,CAOSH,,,Hamilton-Oshawa Port Authority,Government of Canada,Port of Oshawa,ON,43.865,-78.8251,,,,,,,0,,
+CANADA,,,,,,,Toronto Port Authority,Government of Canada,Port of Toronto,ON,43.6348,-79.3492,,,,,,,0,,
+CANADA,,,,,,,Thunder Bay Port Authority,Government of Canada,Port of Thunder Bay,ON,48.4066,-89.2173,,,,,,,0,,
+CANADA,,,,,,,Windsor Port Authority,Government of Canada,Port of Windsor,ON,42.3023,-83.0757,,,,,,,0,,
+CANADA,,,CAMTR,CAMTR,0,,Montreal Port Authority,Government of Canada,Port of Montreal,QC,45.547,-73.53,,,,2019,,,1745244,,
+CANADA,,,,,,,Quebec Port Authority,Government of Canada,Port of Quebec,QC,46.8211,-71.2066,,,,,,,0,,
+CANADA,,,,,,,Saguenay Port Authority,Government of Canada,,QC,0,0,,,,,,,1842,,
+CANADA,,,,,,,Sept-Îles Port Authority,Government of Canada,,QC,0,0,,,,,,,0,,
+CANADA,,,,,,,Trois-Rivières Port Authority,Government of Canada,,QC,0,0,,,,,,,0,,
+CANADA,,,,,,,Belledune Port Authority,Government of Canada,,NB,0,0,,,,,,,0,,
+CANADA,,,CASJB,CASJB,42,,Saint John Port Authority,Government of Canada,Port of Saint John,NB,45.2796,-66.0628,,,,2019,,,68878,,
+CANADA,,,CAHAL,CAHAL,55,,Halifax Port Authority,Government of Canada,Port of Halifax,NS,44.636,-63.551,,,,2019,,,546691,,
+CANADA,,,,,,,St. John’s Port Authority,Government of Canada,,NL,0,0,,,,,,,0,,
