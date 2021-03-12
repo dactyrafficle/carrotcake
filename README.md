@@ -12,9 +12,11 @@ There are 4 big ports:
 * Halifax, NS
 * Prince Rupert, BC
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+PORT|TEUs|Coast|%ofTotal|%ofCoast
+--- | --- | --- | --- |---
+Port of Vancouver|3398861|West|48.76|73.73
+--- | --- | --- | --- |---
+
 
 There are lots of seaports in Canada, but there are 17 port authorities that are owned by the Government of Canada and run as Crown Corporations. The 4 listed above fall under this category.
 
