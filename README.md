@@ -13,10 +13,15 @@ There are 4 big ports:
 * Prince Rupert, BC
 
 PORT|TEUs|Coast|%ofTotal|%ofCoast
+--- | --- | --- | --- |---
 Port of Vancouver|3398861|West|48.76|73.73
+--- | --- | --- | --- |---
 Port of Montreal|1745244|East|25.03|73.92
+--- | --- | --- | --- |---
 Port of Prince Rupert|1210797|West|17.37|26.26
+--- | --- | --- | --- |---
 Port of Halifax|546691|East|7.84|23.15
+--- | --- | --- | --- |---
 Port of Saint John|68878|East|0.98|2.91
 
 
