@@ -38,7 +38,12 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
   source: 'seaports',
   filter: ['!', ['has', 'point_count']],
   paint: {
-   'circle-color': '#0099ff',
+   'circle-color': [
+   'match', ['get', 'country_name'],
+    'CANADA','#0099ff',
+    'USA', '#ffcc66',
+    /* other */ '#ccc'
+    ],
    'circle-radius': ['+',['ln', ['get','teus']],5],
    'circle-opacity': 0.6
   }
@@ -55,7 +60,7 @@ let data = fetch('carrotcake.csv?x=' + Math.random()).then(r => r.text()).then(d
    },
    paint: {
     'circle-radius': ['+',['ln',['get','clustered-teus']],5],
-    'circle-color': '#0099ff',
+    'circle-color':'#0099ff',
     'circle-opacity': 0.6
    }
   });
@@ -187,7 +192,7 @@ function arr_of_objects_into_geojson_object(arr) {
       },
       'properties': {
         'rowId': i,
-        'country': arr[i].country_name,
+        'country_name': arr[i].country_name,
         'port_id': arr[i].port_id,
         'port_code': arr[i].port_code,
         'un_locode': arr[i].un_locode,
