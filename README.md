@@ -13,7 +13,7 @@ There are 4 big ports:
 * Prince Rupert, BC
 
 | PORT | RANK | TEUs | Coast | %ofTotal | %ofCoast | 
-| :--- | --- | ---: | --- | --- | --- | 
+| :--- | :---: | ---: | --- | --- | --- | 
 | Port of Vancouver | 1 | 3,398,861 | West | 48.76 | 73.73 | 
 | Port of Montreal | 2 | 1,745,244 | East | 25.03 | 73.92 | 
 | Port of Prince Rupert | 3 | 1,210,797 | West | 17.37 | 26.26 | 
